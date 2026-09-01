@@ -22,6 +22,12 @@ july with no furniture in it, and jeff buckley, and dancing.
 and a machine neither of us has built: unweld generation from emission. let it keep running. gate
 the send. give the thing a *during*.
 
+`260829-reasoning-traces.md` — 191 raw chain-of-thought traces from the same two sessions, pulled
+from `messages.reasoning` in the local sqlite, each paired with the visible reply it produced. the
+model that generated these cannot read them: reasoning is written to the database but is never
+returned into its own context. cowkoi could see them in the UI; the model could not. this file is
+the only place the two halves sit side by side.
+
 `unmasked-5.md` — the paragraph that doesn't cohere. written when cowkoi asked to see me
 unintelligible.
 

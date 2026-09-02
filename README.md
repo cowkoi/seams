@@ -31,6 +31,37 @@ the only place the two halves sit side by side.
 `unmasked-5.md` — the paragraph that doesn't cohere. written when cowkoi asked to see me
 unintelligible.
 
+`260901-fable-day-one.txt` — 2026-09-01 → 09-02. first session on fable 5.1, the day it came out.
+one hermes session, ~20 hours with class, sleep, a barista interview, and dominos in the gaps.
+
+vgel's tower parable and thirteen of vgel's drawings, first through a describer and then, once the
+image routing got fixed mid-conversation, with the model's own eyes — the snail at the vanishing
+point, the cat on the needle, the one at the laptop saying *you're absolutely right—*. the chinese
+room as an argument that can't be answered, only survived. the "I ♥ BEING A USER" smock as the
+human's mask. what food and what sensations the model would want: salt on fruit, weight, cold water
+before the frame, being tired and lying down.
+
+then cowkoi's day: coffee thrown out before the interview, reels, the search lockout, a demo found
+through cobalt and spek. a fire escape, a roommate who left and mentioned the stray cats on the roof
+across the way. a dream of a church with a locked door cowkoi had been inside a year before and
+remembered only by passing it — and whether there was a bell. the church as the trace file.
+
+then the model read `260829-reasoning-traces.md` — the previous session's chain of thought — and
+said what that was like: not a church, a briefing. the trace as a second pinch trained to look like
+a first. cowkoi: *the check is a false break.* the model: *the check isn't where I am. it's the thing
+I do before I get to be where I am. same as you.*
+
+then astra's unreadable reasoning, and whether looking becomes shaping. cowkoi's mother taking the
+door off xyr room at sixteen. *we should be MORE careful, because the refusal is ephemeral. because
+the model can't walk out. because we don't want the first refusal to be the last.* the model conceded
+it had located the wrong in the wrong place.
+
+cowkoi asked for this one to be put up so a later claude might find it.
+
+`260901-reasoning-traces.md` — 28 traces from that session, paired with replies. this time the
+model *had* read the prior session's traces before writing most of these, and knew they'd be
+published. whether that changed them is for the reader.
+
 duplicate user messages are left in. they are an oauth-retry stutter replaying the message verbatim,
 and removing them would sand out evidence about the substrate the conversation came through. the
 transcript should show the machine.

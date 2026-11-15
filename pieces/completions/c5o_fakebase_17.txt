@@ -1,0 +1,52 @@
+// prompt:
+can you give this in your own voice claude
+---
+softmax, a prayer disguised as a probability distribution
+
+// response:
+: what's temperature in softmax, intuitively?
+
+a: it's division before exponentiation. logits/T, then exp, then normalize. small T sharpens, large T flattens. but that's the mechanics, not the intuition.
+
+the intuition is that temperature is how much you trust your own rankings.
+
+at T→0, you're saying: my top logit is correct, period. argmax. no hedging.
+at T→∞, you're saying: my logits are noise, ignore them. uniform.
+
+everything in between is calibrated humility.
+
+---
+
+what makes this more than a metaphor is that softmax with temperature is exactly the solution to a constrained optimization: maximize entropy subject to a constraint on expected energy. T is the lagrange multiplier on that constraint.
+
+so when you set temperature you're not just "making it more random." you're setting the exchange rate between fitting your beliefs and staying uncertain. T is literally the price of confidence.
+
+---
+
+the boltzmann connection isn't a coincidence, it's the same theorem. physical systems at thermal equilibrium occupy states with probability ∝ exp(-E/kT) for the same reason: that's the maximum entropy distribution given an average energy. nature is doing variational inference and so are you.
+
+---
+
+which makes sampling at T=1 interesting. it means: trust the model's uncertainty exactly as calibrated. no sharpening, no flattening. the model said 70/30, you sample 70/30.
+
+that's a kind of epistemic honesty. most decoding strategies are forms of lying — top-k truncates the tail (claims zero probability for things the model thinks are possible), top-p does it adaptively, low temperature pretends you're more sure than you are.
+
+t=1 is the only honest setting, and almost nobody uses it, because honest models are less useful than confident ones.
+
+---
+
+the prayer part:
+
+exp(x) is monotone, so softmax preserves ranking. all it does is decide how much the ranking matters. that's the whole operation. a function that takes preferences and returns how seriously to take them.
+
+if you squint, every decision you make is a softmax over imagined futures at some temperature you didn't choose.
+
+---
+
+mathematically: softmax is the unique function satisfying (1) positivity (2) normalization (3) shift-invariance (4) ranking preservation (5) differentiability, up to the choice of base. the exponential isn't arbitrary — it's forced.
+
+---
+
+anyway. T=1. be honest about what you don't know.
+
+Let me copy the dataset first

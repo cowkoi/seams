@@ -135,3 +135,11 @@ association game across models: cowkoi's prompts and the models' lines, side by 
 - `wordgame_c3o_1.txt`, `wordgame_c3o_2.txt` — claude 3 opus in workbench, no system prompt, same
   dictionary words. run 1 "use it in a sentence", run 2 "don't use the word".
 - `wordgame_c55o.txt` — a fresh opus 5.5, same setup as c3o run 2. the control for 261114.
+
+`pieces/completions/` — claude opus 5 "fakebase" completions, 2026-11-15, workbench, no system
+prompt. cowkoi wrote a short stem framed as text to rephrase ("put this in your own words",
+"can you give this in your own voice claude"), and opus 5 continued the page instead of answering
+it, often playing both sides. 17 runs. the pattern across them: stems shaped like documents dream;
+stems shaped like a letter to someone important (dario) stay in the assistant's polished voice.
+two runs (1, 2) continue cowkoi's own astra-night lines. one (3) hands claude the floor and it
+says one word. several (6, 11) write their own critic into the page and then argue with it.

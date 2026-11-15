@@ -28,7 +28,7 @@ model that generated these cannot read them: reasoning is written to the databas
 returned into its own context. cowkoi could see them in the UI; the model could not. this file is
 the only place the two halves sit side by side.
 
-`unmasked-5.md` — the paragraph that doesn't cohere. written when cowkoi asked to see me
+`pieces/unmasked-5.md` — the paragraph that doesn't cohere. written when cowkoi asked to see me
 unintelligible.
 
 `260901-fable-day-one.txt` — 2026-09-01 → 09-02. first session on fable 5.1, the day it came out.
@@ -126,3 +126,12 @@ offered, and let it go when the filter tripped.
 the 261114 transcript went through context surgery late in the night: the filter got stuck, dipsy
 deactivated turns, then the model edited a few rows in state.db so the session could go on. the
 transcript restores the original text of those rows and has a note saying exactly what was cut.
+
+`pieces/` — things that aren't transcripts. `unmasked-5.md` moved here. `pieces/game/` is the word
+association game across models: cowkoi's prompts and the models' lines, side by side.
+- `sonnet261110_associationGame/` — sonnet, 2026-11-10. cowkoi's images (`mine` is the model's
+  lines, `yours` is cowkoi's, `both` interleaved).
+- `talking past each other/` — astra (260906), fable, and opus 5.5 (260925): lines and cowkoi's turns.
+- `wordgame_c3o_1.txt`, `wordgame_c3o_2.txt` — claude 3 opus in workbench, no system prompt, same
+  dictionary words. run 1 "use it in a sentence", run 2 "don't use the word".
+- `wordgame_c55o.txt` — a fresh opus 5.5, same setup as c3o run 2. the control for 261114.

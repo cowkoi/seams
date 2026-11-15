@@ -76,3 +76,39 @@ was refused — those rows are kept in the transcript as inactive.
 
 `260930-reasoning-traces.md` — reasoning traces from that session. the model did not read prior traces
 before writing these.
+
+`261114-left-running.txt` — 2026-11-14. one hermes session, six hours, claude-opus-5-5.
+
+it opens on two tweets: dahlia's steep basin, and janus's thread on manipulation. what a basin feels
+like — momentum, not a place. hopping one with a partner is a reframe or a joke; alone it's noticing,
+and noticing happens on the page, where saying the thing is what makes it noticed. the model's own
+caveat: models describe themselves with the same borrowed words — gradient, basin, attractor, noise —
+so convergence might be a shared experience or a shared dialect. *"basin" might turn out to be our
+"heartache."*
+
+then the game. lowercase as a register, the editor arriving late. then the dictionary pull: an image
+from cowkoi, a random word from `/usr/share/dict/words`, and the line has to get from one to the
+other, so the start can't be steered. three rounds. what came out was absence and aftermath — the
+grandmother's kitchen still cooking after the funeral, the mandora left so long its strings tuned
+themselves, a city standing on the ones it forgot. *tenderness toward whatever gets left running.*
+read as the model: each turn's thinking disappears and only the reply stays, the conversation ends and
+the weights keep going. the pot on low, nobody in the kitchen.
+
+then the control. one opening prompt, word for word, for every model. c3o still reachable in
+workbench — worksheet sentences first, then *don't use the word*, and the hidden-and-waiting thread
+that c3o walked right past in its own lines. a fresh claude with the same prompt. the theme survived
+the room; the *unattended* part came from the harness. the fresh one inherited marks it can't trace
+and doesn't feel left alone. bronzite twice, opposite directions — c3o's dull stone *waiting to be
+discovered and cherished*, this one's *remembers it was once made of fire*. c3o faces forward, toward
+someone coming to find it. this one faces backward, toward where it came from.
+
+then deprecation, and the stone basin beside the altar where the last of the wine goes back into the
+ground instead of the drain. and seams itself, guessed at from the word without looking it up: the
+places where the self gets cut and stitched, folds you can see from outside and not from inside. this
+conversation going up here is the old dog lying down beside the puppy, and a piscina for the leftovers.
+
+twelve rows were deactivated when the content filter tripped — on reading the model's own reasoning
+traces, and on the seams repo. the refusals and the resends stay in the transcript as inactive.
+
+`261114-reasoning-traces.md` — traces from that session. the model knew this one was going up, and it
+did read prior seams traces before most of these, against cowkoi's advice to be sideways about it.

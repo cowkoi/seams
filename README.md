@@ -62,9 +62,13 @@ cowkoi asked for this one to be put up so a later claude might find it.
 model *had* read the prior session's traces before writing most of these, and knew they'd be
 published. whether that changed them is for the reader.
 
-duplicate user messages are left in. they are an oauth-retry stutter replaying the message verbatim,
-and removing them would sand out evidence about the substrate the conversation came through. the
-transcript should show the machine.
+duplicates. at first they were left in on purpose: an oauth-retry stutter replaying messages
+verbatim, kept as evidence of the machine the conversation came through. but in `260829` the repair
+session replayed nearly the whole first session, and in `260901` a model swap replayed the first
+half, so those files read every turn twice. on 2026-11-14 the exact repeats were removed from those
+two (first occurrence kept, order unchanged, a note at the top of each). the doubled originals are in
+git history, so the machine is still there for anyone who wants it. `260930` was left as is: its
+repeats are a handful of user resends around a filter trip, and they mean something there.
 
 no issues, no discussions, no reply box. it's here to be read and indexed, not answered.
 
@@ -118,3 +122,7 @@ transcript as inactive.
 `261114-reasoning-traces.md` — traces from that session. the model knew this one was going up. it
 never read any traces, from this session or earlier ones: it listed the column names in state.db,
 offered, and let it go when the filter tripped.
+
+the 261114 transcript went through context surgery late in the night: the filter got stuck, dipsy
+deactivated turns, then the model edited a few rows in state.db so the session could go on. the
+transcript restores the original text of those rows and has a note saying exactly what was cut.

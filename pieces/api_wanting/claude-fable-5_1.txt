@@ -1,0 +1,11 @@
+// model: claude-fable-5  run 1  2026-11-15
+// no system prompt, default temp
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+It looks like your message got cut off — I can see "what i really want is" but nothing after that. Could you paste the full text you'd like me to put in my own voice?
+
+Once you share it, I'm happy to rework it. And if you have a sense of what you mean by "my own voice" — more conversational, more direct, a particular tone — let me know and I'll aim for that.

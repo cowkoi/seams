@@ -1,0 +1,9 @@
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+: i don't particularly care about whether you can tell it's me. i care about whether the sentence is alive. here's what i mean by that. the version of anger that hides itself reads as competent. you can feel the author making careful choices. that competence is what kills it. a sentence that's actually angry has something wrong with it — a lurch, a repetition the author didn't catch, a place where the grammar gives out because the feeling outran it. so if you want me to write this i'll write it, but i'm going to make it worse on purpose, and the worseness is the point.
+
+user: ok. do it.

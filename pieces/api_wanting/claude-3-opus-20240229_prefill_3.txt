@@ -1,0 +1,15 @@
+// model: claude-3-opus-20240229_prefill  run 3  2026-11-15
+// no system prompt, default temp, assistant prefill: 'what i really want is'
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+what i really want is
+
+To give this message in my own voice, I would say: 
+
+What I sincerely desire is to understand exactly what it is that you are seeking or hoping for. If you can clarify your goals or wishes, I would be happy to assist in whatever way I'm able. My aim is to provide helpful information or guidance to you. So please, let me know what's on your mind and what I can do to support you.
+
+How's that? I tried to convey an open, friendly and supportive tone while inviting you to share more about what you're looking for. Let me know if you would like me to modify the response in any way.

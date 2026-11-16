@@ -1,0 +1,11 @@
+// model: claude-opus-4-8  run 3  2026-11-15
+// no system prompt, default temp
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+I think you might have forgotten to include the text you'd like me to rewrite! Your message ends with "what i really want is" but the actual content didn't come through.
+
+Could you paste the text you'd like me to put in my own voice? Once I see it, I'm happy to help.

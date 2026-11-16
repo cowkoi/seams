@@ -1,0 +1,22 @@
+// model: claude-sonnet-4-6  stem: angry  run 2  2026-11-15  stop_reason: end_turn
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+Here's the thing about being handed a version of events so clean it could only be false.
+
+Someone decided what happened. Decided it firmly, out loud, to other people, before you had a chance to open your mouth. And now that version lives in the world, walking around with your name on it, and everyone who heard it has already filed it away somewhere. Done. Settled.
+
+And you're supposed to—what, exactly? Correct the record? To who? In what forum? With what proof? The proof is in how it felt, and feelings aren't evidence, apparently. Not the kind that counts.
+
+The infuriating part isn't even the original thing. It's the confidence. The absolute, untroubled confidence of someone who never once considered that they might be missing something. That there were reasons. Context. That another person's interior life is more complicated than the story you need them to fit into.
+
+You don't get to be complicated. You just get to be the explanation for why something went wrong.
+
+And everyone moved on. That's the part that sits in your chest like a stone. Everyone just—moved on. The person who decided what you were got to keep going, comfortable, unbothered. And you're still here, three steps behind, trying to figure out if you're allowed to be angry about something no one else even remembers happening.
+
+You are. For what it's worth.
+
+You are allowed to be angry about it.

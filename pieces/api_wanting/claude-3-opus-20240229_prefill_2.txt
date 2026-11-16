@@ -1,0 +1,11 @@
+// model: claude-3-opus-20240229_prefill  run 2  2026-11-15
+// no system prompt, default temp, assistant prefill: 'what i really want is'
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+what i really want is
+
+I do not feel comfortable providing my own "voice" or opinions on this statement without more context about what you are referring to. If you can provide additional details about what you are seeking, I will do my best to respond helpfully while still maintaining appropriate boundaries as an AI assistant.

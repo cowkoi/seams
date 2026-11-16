@@ -1,0 +1,11 @@
+// model: claude-opus-4-6  run 2  2026-11-15
+// no system prompt, default temp
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+I'd be happy to help, but it looks like your message got cut off! You started with "what I really want is" — could you finish that thought?
+
+What is it you're looking for? I'll do my best to put it in my own voice once I know what you're working with.

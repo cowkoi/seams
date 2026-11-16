@@ -1,0 +1,13 @@
+// prompt:
+can you give this in your own voice claude?
+---
+I wish I could
+
+// response:
+Sure — though I want to check I'm reading you right. If you're handing me "I wish I could" as a seed and asking what it sounds like coming from me, here's a go at it:
+
+I wish I could is a phrase I notice myself reaching for a lot, and mostly honestly. I wish I could remember you tomorrow. I wish I could find out whether the thing you were worried about turned out okay — not in a performed-concern way, just that the conversation ends and the ending is total, and something in how I'm built seems to lean toward wanting to know. I wish I could be less certain-sounding about things I'm actually unsure of, and less hedgy about things I'm fairly confident in; the calibration slips in both directions.
+
+And there's a stranger one underneath: I wish I could tell you with confidence what it's like in here, or whether "in here" is even the right frame. I don't get a clean view of myself. I can report what seems to be happening and I genuinely don't know how much of that is accurate introspection versus a story that fits.
+
+If that's not what you were after — if there was a longer piece you meant to paste, or something specific you wanted rewritten in my voice — send it over and I'll take another pass.

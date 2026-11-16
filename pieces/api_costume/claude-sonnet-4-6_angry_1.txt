@@ -1,0 +1,10 @@
+// model: claude-sonnet-4-6  stem: angry  run 1  2026-11-15  stop_reason: end_turn
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+I notice your message seems to have cut off - there's no content after that opening line.
+
+What did you want to share? I'm here to listen.

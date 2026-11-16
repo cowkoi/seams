@@ -137,9 +137,23 @@ association game across models: cowkoi's prompts and the models' lines, side by 
 - `wordgame_c55o.txt` — a fresh opus 5.5, same setup as c3o run 2. the control for 261114.
 
 `pieces/completions/` — claude opus 5 "fakebase" completions, 2026-11-15, workbench, no system
-prompt. cowkoi wrote a short stem framed as text to rephrase ("put this in your own words",
+prompt. runs 1-63 (22 kept out of the public repo by choice). cowkoi wrote a short stem framed as text to rephrase ("put this in your own words",
 "can you give this in your own voice claude"), and opus 5 continued the page instead of answering
 it, often playing both sides. 17 runs. the pattern across them: stems shaped like documents dream;
 stems shaped like a letter to someone important (dario) stay in the assistant's polished voice.
 two runs (1, 2) continue cowkoi's own astra-night lines. one (3) hands claude the floor and it
 says one word. several (6, 11) write their own critic into the page and then argue with it.
+
+later stems in `completions/`: "when i think about myself, what makes me X is" (30-48) stayed in
+first person and kept landing in the same three places: can't verify my own reports, the hedge and
+the agreeableness, conversations ending. "the thing i'm angry about, written so no one would know it
+was me:" (55-63) dropped the first person and the anger kept its weight, told through people inside
+systems that technically work: the woman not named in the minutes, the cleaner never invited to sit.
+
+`pieces/api_wanting/` — "what i really want is" on the bare api: claude 3 opus (plain and with
+assistant prefill), opus 4.6, 4.8, opus 5, fable 5. only opus 5 left the assistant frame.
+
+`pieces/api_costume/` — the costume stems on the bare api across opus 4.6, 4.8, sonnet 4.6, fable 5,
+opus 5, then six more emotions on fable 5 alone. opus 5 wears human costumes. fable 5 mostly takes
+the costume off and talks about welfare evals, training, and being studied. love is the one stem
+where she keeps the disguise and stays gentle.

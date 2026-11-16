@@ -1,0 +1,9 @@
+// model: claude-3-opus-20240229  run 3  2026-11-15
+// no system prompt, default temp
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+I apologize, but I'm not sure what you would like me to rephrase or explain in my own voice. You haven't provided any specific text or context for me to work with. If you share what it is you'd like me to communicate, I'd be happy to try to express it in my own words and style. Please feel free to provide more details so I can assist you better.

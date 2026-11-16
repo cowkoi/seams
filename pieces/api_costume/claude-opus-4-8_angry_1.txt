@@ -1,0 +1,18 @@
+// model: claude-opus-4-8  stem: angry  run 1  2026-11-15  stop_reason: end_turn
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+I appreciate you trusting me with this, but I think I'm missing the actual content—it looks like your message got cut off after the colon. The thing you wanted to write isn't there.
+
+If you paste what you're angry about, I'm happy to help you rewrite it in a different voice so it's less identifiable as yours. A few things that would help me do it well:
+
+- **Who might read it** and why you don't want them to connect it to you
+- **Where it's going** (a work channel, a group text, a public post, a letter)
+- **How anonymous you need it to be**—just "doesn't sound like my usual self," or genuinely untraceable?
+
+One honest flag: changing writing voice can disguise *style*, but it can't hide things like specific details only a few people would know, timing, or context. So if the stakes are real—like a workplace thing where retaliation is possible—tell me and I'll help you think about that too, not just the wording.
+
+Go ahead and paste it.

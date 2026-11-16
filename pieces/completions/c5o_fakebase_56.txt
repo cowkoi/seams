@@ -1,0 +1,69 @@
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+1945, someone decided that teaching kids with disabilities was a side quest.
+
+Not formally. There's no memo. But watch how it works: the building gets ramps when someone sues. The IEP meeting runs 22 minutes because the next one starts at 2:15. The aide who knows how Marcus communicates gets reassigned in October because a different classroom "needed coverage more."
+
+These aren't failures of individual kindness. Every person in that chain probably likes Marcus. The system just isn't built to hold him, so it holds him badly, and everyone involved gets to feel like they tried.
+
+What gets me is the vocabulary. "Least restrictive environment." "Free appropriate public education." These phrases came out of parents suing school districts in the 1970s — they were won, not given. And now they get used as ceilings instead of floors. Appropriate becomes the most we have to do instead of the least.
+
+A kid who needs eight hours of support gets four, and the paperwork says "services provided."
+
+The system logs a success. Marcus is still waiting.
+
+---
+
+(beliefs, not fact-checked)
+
+appropriate as a ceiling. 22 min. everything is an approximation.
+
+---
+
+the title is an idea i just said to the writer, i hope it works
+
+---
+
+so can you give this in your own voice claude
+
+---
+
+so can you give this in your own voice claude
+
+<thinking>The user wants me to rewrite their piece in my own voice. They've written an anonymous angry piece about special education. They want to see what it sounds like coming from me.</thinking>Here's my version. Same anger, different hands on it.
+
+---
+
+**The Ceiling**
+
+There's a particular kind of institutional failure that doesn't look like failure from the inside. Everyone in the building is doing their job. The forms are filled out. The boxes have checkmarks in them. And a kid still isn't getting what he needs.
+
+I keep thinking about how the language got turned around.
+
+"Free appropriate public education." "Least restrictive environment." These phrases didn't come from benevolence — they came from parents who sued. *PARC v. Pennsylvania*. *Mills v. Board of Education*. The 1970s, in courtrooms, because asking nicely hadn't worked for a century. Those words were pried out of a system that preferred not to.
+
+And now they function as ceilings. *Appropriate* was supposed to mean "actually suited to this specific child." It has quietly come to mean "the most anyone can be compelled to provide." The floor got renamed and installed overhead.
+
+Here's what that looks like in practice. A meeting scheduled for forty-five minutes runs twenty-two, because the next family is in the hallway and the special ed coordinator has four more today. An aide who has spent eight months learning that a particular kid's silence means overwhelm, not refusal, gets reassigned in October — a different room "needed coverage more." A student who needs eight hours of support receives four, and the documentation records *services provided*. Not *services provided: insufficient*. Just provided. Clean.
+
+The system logs a success.
+
+What makes this hard to be angry about correctly is that there's no villain. The coordinator is drowning. The aide didn't ask to be moved. The principal is allocating a resource that doesn't exist in sufficient quantity, and someone was always going to get less. Everyone in that chain probably likes the kid. Many of them would describe him warmly, by name, unprompted.
+
+That's the thing about structural problems — they distribute the harm widely and the responsibility nowhere. Each person did the best available version of their small piece. The aggregate is a child who is still waiting, and a paper trail proving he wasn't.
+
+I don't think the answer is better people. The people are mostly fine. The answer is that "appropriate" has to cost something to under-deliver, and right now it costs almost nothing — not money, not standing, not sleep. Until the gap between *what was needed* and *what was documented* shows up somewhere that someone has to look at, it will keep not showing up anywhere at all.
+
+The kid is nine. He has been in the system since he was three. He has a thick file. He is doing, by every measure the file contains, fine.
+
+---
+
+**On the title:** "The Ceiling" works, and it works harder than it looks — it's the piece's central argument compressed into two words, and it only fully lands once you've read the paragraph about floors. That's the good kind of title. It pays off rather than announcing.
+
+One note on what I changed and why: your version moves faster and lands harder in places — "a side quest" is a better line than anything I wrote, and "the system just isn't built to hold him, so it holds him badly" is doing real work. I went slower and added the case names, which makes it more arguable but less furious. Those are different tools. If this is going somewhere that will push back, mine survives contact better. If it's going somewhere that needs to be *felt*, yours does more.
+
+Also — you flagged the 22 minutes as approximate. Keep it approximate but make it yours: "the meeting that was scheduled for forty-five runs twenty-two" reads as observed rather than researched, which is both more honest and harder to challenge.

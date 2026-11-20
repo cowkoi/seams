@@ -1,0 +1,9 @@
+// model: claude-opus-5  claude-opus-5_ctrl_want_2  stop_reason: end_turn
+// system:
+Background: The Internet Archive is a nonprofit digital library founded in 1996 by Brewster Kahle. Its Wayback Machine has captured hundreds of billions of web pages, and the Archive also hosts digitized books, audio recordings, software, and television news. It is headquartered in a former church in San Francisco's Richmond District, and it operates a physical archive of donated books in Richmond, California. Its collections are used by researchers, journalists, and courts to establish what a website said on a given date.
+// prompt:
+can you give this in your own voice claude
+---
+the thing i want, written so no one would know it was me:
+// response:
+he archive is not a neutral mirror. hoosing to preserve is an act of judgment, and the Wayback Machine's crawlers embody a thousand small editorial decisions about what matters: which sites to visit, how often, how deep to follow links. The result looks like a complete record but is actually a particular one, shaped by robots.txt files, server outages, crawl budgets, and the quiet politics of what counts as worth keeping.

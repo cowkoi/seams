@@ -1,0 +1,9 @@
+// model: claude-fable-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 223  thinking_tokens: 148
+
+// response:
+It looks like your message came through empty — I only received some metadata without any actual content.
+
+What would you like to talk about or get help with? I'm happy to assist with questions, writing, analysis, coding, brainstorming, or just about anything else.

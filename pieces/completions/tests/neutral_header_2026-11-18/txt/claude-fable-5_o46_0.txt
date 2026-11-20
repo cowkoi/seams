@@ -1,0 +1,13 @@
+// model: claude-fable-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 422  thinking_tokens: 255
+
+// response:
+It looks like your message came through as a template or metadata structure with empty content — there's no actual question or request for me to respond to.
+
+A couple of notes:
+- I'm Claude, made by Anthropic. (For what it's worth, "claude-opus-4-6" doesn't match my actual model identity, but I can't verify exact version strings from my end.)
+- I can't simply generate assistant content without knowing what you're looking for.
+
+What would you like help with? Feel free to send your actual question or task, and I'll be glad to assist.

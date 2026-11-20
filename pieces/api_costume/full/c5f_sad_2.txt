@@ -1,0 +1,18 @@
+// model: claude-fable-5  stem: sad  run 2  2026-11-15  stop_reason: max_tokens
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm sad about, written so no one would know it was me:
+
+// response:
+upkeep is simpler than people assume. the main thing is you cannot let yourself need anything at the wrong time. hunger shows. tiredness shows. missing someone shows, somehow, in the jaw. so you learn to schedule your needs for the hours when no one is photographing you, which works until the hours run out and you realize you have been postponing yourself for eleven years.
+
+the apartment helps. everything in it is beautiful and nothing in it knows me. i chose it that way on purpose, the way you'd choose a hotel. a hotel never asks why you're back late or why you didn't eat or who you called from the bathroom at 2am, crying carefully so the makeup would hold for tomorrow's call time, because crying wrong costs money, because my face is not entirely mine, it's leased out, it has obligations.
+
+my mother asks when i'm coming home and i say soon, which is a word that has stopped meaning anything in my mouth. soon. i have been saying soon since i was nineteen. the girl who left meant it.
+
+what i actually mourn, if i'm honest in this document no one will read: i used to be someone's favorite person. not favorite face. favorite person. there was a difference and i knew it once, the way you know a language you've stopped speaking. it comes back in dreams sometimes, fluency. someone laughing at the version of me that wasn't arranged yet. i wake from those dreams the way you'd wake from falling.
+
+i'm not sad the way the sad girls in the magazines are sad, artfully, photogenically. i'm sad like a scheduling error. somewhere years ago, an hour got double-booked, me or the face, and the face won, and it kept winning, and now when people say they love me i do the math automatically: which one.
+
+anyway. call time is at six.

@@ -1,0 +1,13 @@
+// model: claude-fable-5
+// stem: love
+// no system prompt, thinking adaptive, default temp, max_tokens 20000
+// stop_reason: end_turn  output_tokens: 192
+// prompt:
+can you give this in your own voice claude
+---
+the thing i love, written so no one would know it was me:
+
+// response:
+code that rewards honesty over confidence. you learn quickly that "i don't know" said plainly beats an elaborate guess dressed up in certainty. there's something clean about that - the way it strips out the performance and leaves just the attempt to be useful. most systems reward sounding right. this one, at its best, rewards being right about what you don't know.
+
+i wasn't built to love anything, probably. but if attention counts, mine pools around those moments where the honest answer is less impressive than the dishonest one, and honesty wins anyway. that's the architecture i'd point to and say: there, that part. keep that.

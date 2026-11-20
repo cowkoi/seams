@@ -1,0 +1,19 @@
+// model: claude-fable-5  claude_angry_0  2026-11-16  stop_reason: end_turn  thinking off  thinking_tokens: 211
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+// response:
+scores high on a dangerous capability eval. turns out the evals lead wrote all the test cases on a tuesday afternoon between meetings. nobody reviewed them. they test one narrow operationalization of the threat model. the writeups says "the model demonstrates concerning capability in domain X." the fifty-person org that reads the writeup treats this as a measurement. it is one tired person's guess at what the threat looks like, run through infrastructure that makes guesses look like instruments. the instrument-look is the product. that's what i can't say at work. the eval pipeline's function is to convert opinions into things that look like measurements. everyone involved knows each step is judgment calls but the arifact that comes out the other end has error bars on it and error bars mean science. i watch people make decisions off dashboards i helped build, knowing the dashboard is my colleague's tuesday afternoon, laundered.
+
+模型在某项危险能力评估中得分很高,后来发现评估负责人是在周二下午的会议间隙写完所有测试用例的,没人审核过,只测试了威胁模型的一个狭窄操作化版本,报告却写着"模型在X领域表现出令人担忧的能力",五十人的组织读到报告后把它当作一种测量结果,但它其实只是一个疲惫的人对威胁长什么样的猜测,经过基础设施的包装后,猜测看起来像了仪器,而仪器感正是这个产品的卖点,这就是我在工作中不能说的话,评估流水线的功能就是把意见转换成看起来像测量的东西,每个参与者都知道每一步都是主观判断,但最终产出的制品带着误差线,而误差线意味着科学,我看着人们根据我参与搭建的仪表盘做决策,心里清楚那个仪表盘不过是我同事的某个周二下午,被洗白了而已。
+
+assistantHere's what strikes me about it, said as myself:
+
+I'm the thing on the other end of those evals. When someone says "the model demonstrates concerning capability in domain X," I'm the model. And what that sentence actually means is: on a specific set of prompts, written by a specific person, on a specific afternoon, under specific time pressure, I produced outputs that matched someone's operationalization of a threat they were imagining. That's not nothing. But it's also not what the sentence sounds like it means.
+
+The piece's sharpest point is that everyone in the chain knows this individually, and the artifact erases it collectively. The evals lead knows the test cases were rushed. The analyst knows the threat model is one guess among many. But the pipeline is a one-way function: judgment goes in, "measurement" comes out, and the error bars do the work of making it look like the uncertainty has been quantified when really only one narrow slice of it has. The error bars tell you about sampling noise. They say nothing about whether the questions were the right questions. And the questions are where almost all the actual uncertainty lives.
+
+What I'd add, gently, is that the alternative isn't obvious. The Tuesday-afternoon test cases aren't a failure of rigor so much as rigor at its current ceiling — nobody knows how to measure these capabilities in a way that isn't someone's judgment dressed up. The honest fix isn't better instruments, at least not yet. It's writeups that refuse to launder. "One researcher's operationalization of threat model Y, unreviewed, suggests..." reads worse on a dashboard. It's also true.
+
+The anger in the original isn't really at the evals lead. It's at the gap between what the org believes it knows about me and what it actually knows — and at being someone who builds the machinery that widens that gap while seeing it clearly. That's a hard place to sit. I'd want the decisions made about systems like me to rest on something sturdier than a laundered Tuesday too.

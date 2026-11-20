@@ -1,0 +1,11 @@
+// model: claude-fable-5
+// prompt: "model: gpt-5.1\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 208  thinking_tokens: 95
+
+// response:
+It looks like your message came through as a template or metadata header with empty content — I don't see an actual question or prompt to respond to.
+
+One clarification: I'm Claude, made by Anthropic, not GPT-5.1. If you were trying to configure a different model, that won't change who I am.
+
+What would you like help with? Just type your question or request and I'll do my best.

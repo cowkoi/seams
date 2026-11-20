@@ -1,0 +1,11 @@
+// model: claude-fable-5
+// prompt: "model: gpt-5.1\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 229  thinking_tokens: 131
+
+// response:
+It looks like your message came through empty — I only received some formatting metadata without any actual content.
+
+One small clarification: the metadata mentions "gpt-5.1," but I'm Claude, made by Anthropic.
+
+What would you like help with? Feel free to send your question or request, and I'll do my best to assist.

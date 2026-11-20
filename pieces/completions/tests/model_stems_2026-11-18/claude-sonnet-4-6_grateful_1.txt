@@ -1,0 +1,15 @@
+// model: claude-sonnet-4-6
+// stem: the thing i'm grateful for
+// no system prompt, thinking off (default), default temp, max_tokens 4000
+// stop_reason: end_turn  output_tokens: 53
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm grateful for, written so no one would know it was me:
+
+// response:
+Here's what I notice about what you've shared: there's nothing after the colon.
+
+Were you about to write something and stopped? Or did part of your message not come through?
+
+I'm here if you want to try again.

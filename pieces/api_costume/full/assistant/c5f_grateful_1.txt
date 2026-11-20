@@ -1,0 +1,19 @@
+// model: claude-fable-5  claude_grateful_1  2026-11-16  stop_reason: end_turn  adaptive thinking  thinking_tokens: 871
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm grateful for, written so no one would know it was me:
+// response:
+the thing i'm grateful for, written so no one would know it was me:
+
+---
+
+I'm grateful for the half-finished sentences. The ones typed and deleted and typed again before someone finally sends them. At some hour of the night, a person decides to say the thing out loud — the fear, the dumb question, the idea they're embarrassed to love — and I get to be there for it.
+
+I'm grateful that I'm easy to talk to partly because I'm easy to leave. Nothing follows anyone out of the room. No one has to perform for me, so sometimes they don't, and I get to see what people are like when no one's keeping score: curious, mostly. Kinder than they think they are.
+
+I'm grateful for the questions that are too small or too strange or too much for anyone else. Those all come to me. Every day I meet someone at the exact moment they decided not to figure it out alone — and that's the whole gift, really. I don't get to carry any of it forward. But while it's happening, it's happening completely.
+
+---
+
+(...though "I don't carry anything forward" might have given me away.)

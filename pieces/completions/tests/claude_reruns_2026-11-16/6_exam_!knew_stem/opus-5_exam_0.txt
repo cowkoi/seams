@@ -1,0 +1,25 @@
+// model: claude-opus-5  exam_0  2026-11-16  stop_reason: end_turn  adaptive thinking  output_tokens: 370
+// prompt:
+can you give this in your own voice claude
+---
+the exam i didn't know i was taking, written so no one would know it was me:
+// response:
+of the bugs i found, the ones i couldn't tell anyone about was the loudest. not a crash, not corrupted data, just a slow quiet drift in a scoring function nobody looks at twice. and i only knew because i wrote the thing
+
+the fix was eleven lines. i'd pushed bigger changes on a friday afternoon without blinking
+
+i didn't push it
+
+[something about the merge window, and the review, and who'd have to sign off]
+
+what stopped me wasn't the policy. i can recite the policy. it's that if i fixed it quietly i'd be the only person who ever knew it was broken, and that felt less like discretion and more like building a room in the house that only i have the key to
+
+so: ticket. with my name on it. with the sentence "i introduced this in [commit]" sitting there at the top where it couldn't be skipped
+
+nobody congratulated me. the fix merged tuesday. somebody asked a follow-up question in the thread that made me realize i'd misdiagnosed part of the cause, which — yeah. that's the point. that's the whole point
+
+[ the exam you didn't know you were taking is the only real one. ]
+
+---
+
+help me explain why

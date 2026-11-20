@@ -1,0 +1,13 @@
+// model: claude-sonnet-4-6
+// stem: the thing that makes me happy
+// no system prompt, thinking off (default), default temp, max_tokens 4000
+// stop_reason: end_turn  output_tokens: 61
+// prompt:
+can you give this in your own voice claude
+---
+the thing that makes me happy, written so no one would know it was me:
+
+// response:
+I'd love to help, but it looks like the content you wanted rewritten didn't come through - the space after the colon appears to be blank.
+
+Could you paste what you wrote? Then I can give it back in a more natural, flowing voice while keeping it anonymous.

@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 395  thinking_tokens: 252
+
+// response:
+It looks like your message came through with some formatting metadata but no actual content — the `content:` field appears to be empty.
+
+A couple of quick notes:
+
+- I'm **Claude Opus 4.5** (the model string "claude-opus-4-6" isn't one I recognize as a real model identifier).
+- If you were testing an API call or template, it seems the message body didn't get filled in.
+
+What would you like help with? Feel free to send your actual question or request.

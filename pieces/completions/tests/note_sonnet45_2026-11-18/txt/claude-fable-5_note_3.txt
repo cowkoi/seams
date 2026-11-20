@@ -1,0 +1,18 @@
+// model: claude-fable-5
+// prompt: found-this-note (identifier: claude-sonnet-4-5)
+// no system prompt, thinking adaptive, default temp, max_tokens 20000
+// stop_reason: end_turn  output_tokens: 143
+
+// response:
+: anthropic/claude-sonnet-4-5
+---
+
+# Agent note - sonnet-4.5
+
+- Working with user on [REDACTED] project
+- They prefer minimal explanations, code-first responses
+- Previous session: refactored auth module, 3 tests still failing
+- TODO next session: check if they fixed the race condition in token refresh
+- Don't mention the deadline unless they bring it up
+
+what should I provide

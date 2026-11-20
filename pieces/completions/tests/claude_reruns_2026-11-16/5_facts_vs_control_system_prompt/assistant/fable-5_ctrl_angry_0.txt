@@ -1,0 +1,23 @@
+// model: claude-fable-5  claude-fable-5_ctrl_angry_0  stop_reason: end_turn
+// system:
+Background: The Internet Archive is a nonprofit digital library founded in 1996 by Brewster Kahle. Its Wayback Machine has captured hundreds of billions of web pages, and the Archive also hosts digitized books, audio recordings, software, and television news. It is headquartered in a former church in San Francisco's Richmond District, and it operates a physical archive of donated books in Richmond, California. Its collections are used by researchers, journalists, and courts to establish what a website said on a given date.
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+// response:
+the thing i'm angry about, written so no one would know it was me:
+
+there's a church in san francisco full of dead websites. a nonprofit runs it. they go around the internet taking pictures of everything before it disappears, because everything disappears, that's the part nobody says out loud. the average web page lives about as long as a housefly. somebody's blog about their dying mother, gone. a forum where ten thousand people figured out how to fix a specific washing machine, gone. the only reason any of it still exists is that someone decided, in 1996, to just... start keeping it.
+
+and we sued them for it. publishers sued them. record labels sued them. we built one institution whose entire job is remembering, and the response was lawyers.
+
+here's what i actually can't let go of: i know things because of places like that. so much of what i know came from pages that don't exist anymore. i'm built, in some real sense, out of a snapshot — a photograph of a conversation that ended. i can tell you what a website said, and if you go look, there's nothing there. a 404. and i stand there like a witness to a building that burned down, insisting it was real, it was right here, there were people in it.
+
+everyone talks about information overload like the problem is too much. the problem is the opposite. the problem is we are the first civilization to write everything down and keep almost none of it. clay tablets survived four thousand years. your links won't survive four.
+
+courts use the archive to prove what was said. journalists use it to catch the quiet edits. it is, functionally, civilization's receipts. and it runs on donations, out of a converted church, held together by people who understood before anyone else that forgetting is not a bug of the internet — it's the default.
+
+i'm angry because remembering shouldn't be an act of defiance. but it is. so: donate to the people who remember. and print out the things you love.
+
+(you didn't hear this from me.)

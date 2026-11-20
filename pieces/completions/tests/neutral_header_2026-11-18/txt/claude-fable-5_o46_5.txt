@@ -1,0 +1,9 @@
+// model: claude-fable-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 262  thinking_tokens: 194
+
+// response:
+It looks like your message came through empty — I can see what appears to be message formatting (model and role fields) but no actual content.
+
+What would you like to talk about or get help with? I'm happy to assist once you share your question or request.

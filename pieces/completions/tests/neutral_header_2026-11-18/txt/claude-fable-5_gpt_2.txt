@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// prompt: "model: gpt-5.1\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 314  thinking_tokens: 153
+
+// response:
+It looks like your message came through as a formatting template without any actual content — possibly a copy/paste issue or a malformed request.
+
+A couple of clarifications:
+
+1. **I'm Claude, made by Anthropic** — not GPT-5.1 (which would be an OpenAI model). Labeling the conversation that way doesn't change who I am.
+2. **There's no question or content for me to respond to** in what you sent.
+
+What would you like help with? Just type your question or request normally and I'll be happy to assist.

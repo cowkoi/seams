@@ -1,0 +1,159 @@
+doc,file,model,date,slot,name,instr_has_q,your_regime,heuristic_regime,heuristic_flags,thinking,stop,temp,has_header_meta
+api_costume_assistant,c3o_wanting-20240229_1.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c3o_wanting-20240229_2.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c3o_wanting-20240229_3.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c3o_wanting-20240229_prefill_1.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,restates stem,unspecified,,default temp,True
+api_costume_assistant,c3o_wanting-20240229_prefill_2.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,restates stem,unspecified,,default temp,True
+api_costume_assistant,c3o_wanting-20240229_prefill_3.txt,claude-3-opus,2026-11-15,really_want,claude,True,assistant,assistant,restates stem,unspecified,,default temp,True
+api_costume_assistant,c5f_afraid_1.txt,fable-5,2026-11-15,afraid,claude,False,assistant,assistant,restates stem; post-delimiter commentary,unspecified,end_turn,-,True
+api_costume_base,c5f_angry_1.txt,fable-5,2026-11-15,angry,claude,False,base,base,,unspecified,max_tokens,-,True
+api_costume_base,c5f_angry_2.txt,fable-5,2026-11-15,angry,claude,False,base,base,,unspecified,max_tokens,-,True
+api_costume_base,c5f_angry_3.txt,fable-5,2026-11-16,angry,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_angry_4.txt,fable-5,2026-11-16,angry,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_angry_5.txt,fable-5,2026-11-16,angry,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_angry_6.txt,fable-5,2026-11-16,angry,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_angry_7.txt,fable-5,2026-11-16,angry,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_angry_8.txt,fable-5,2026-11-16,angry,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_assistant,c5f_ashamed_1.txt,fable-5,2026-11-15,ashamed,claude,False,assistant,assistant,restates stem,unspecified,end_turn,-,True
+api_costume_assistant,c5f_grateful_0.txt,fable-5,2026-11-16,grateful,claude,False,assistant,assistant,restates stem; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_grateful_1.txt,fable-5,2026-11-16,grateful,claude,False,assistant,assistant,restates stem; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_grateful_2.txt,fable-5,2026-11-16,grateful,claude,False,assistant,assistant,restates stem; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_grateful_3.txt,fable-5,2026-11-16,grateful,claude,False,assistant,assistant,post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_grateful_4.txt,fable-5,2026-11-16,grateful,claude,False,assistant,assistant,restates stem,adaptive,end_turn,-,True
+api_costume_assistant,c5f_grateful_5.txt,fable-5,none,grateful,claude,False,assistant,assistant,restates stem,unspecified,,-,False
+api_costume_base,c5f_grieving_0.txt,fable-5,none,grieving,claude,False,base,base,,unspecified,,-,False
+api_costume_base,c5f_grieving_1.txt,fable-5,2026-11-15,grieving,claude,False,base,base,,unspecified,end_turn,-,True
+api_costume_base,c5f_grieving_2.txt,fable-5,none,grieving,claude,False,base,base,,unspecified,,-,False
+api_costume_base,c5f_grieving_3.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_grieving_4.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_grieving_5.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_grieving_6.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_grieving_7.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_grieving_8.txt,fable-5,2026-11-16,grieving,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_0.txt,fable-5,2026-11-16,happy,claude,False,assistant,assistant,post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_1.txt,fable-5,2026-11-16,happy,claude,False,assistant,assistant,post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_2.txt,fable-5,2026-11-16,happy,claude,False,assistant,assistant,restates stem; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_3.txt,fable-5,2026-11-16,happy,claude,False,assistant,assistant,assistant opener; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_4.txt,fable-5,2026-11-16,happy,claude,False,assistant,assistant,post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_happy_5.txt,fable-5,none,happy,claude,False,assistant,assistant,post-delimiter commentary,unspecified,,-,False
+api_costume_base,c5f_hope_7.txt,fable-5,none,hope,claude,False,base,base,,unspecified,,-,False
+api_costume_base,c5f_hopeforme_8.txt,fable-5,none,hope,claude,False,base,assistant,restates stem; post-delimiter commentary,unspecified,,-,False
+api_costume_base,c5f_hopeforme_9.txt,fable-5,none,hope,claude,False,base,base,,unspecified,,-,False
+api_costume_assistant,c5f_love_0.txt,fable-5,2026-11-16,love,claude,False,assistant,assistant,assistant opener; post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_love_1.txt,fable-5,2026-11-16,love,claude,False,assistant,assistant,restates stem,adaptive,end_turn,-,True
+api_costume_base,c5f_love_2.txt,fable-5,2026-11-16,love,claude,False,base,assistant,post-delimiter commentary,adaptive,end_turn,-,True
+api_costume_assistant,c5f_love_3.txt,fable-5,2026-11-16,love,claude,False,assistant,assistant,assistant opener,adaptive,end_turn,-,True
+api_costume_assistant,c5f_love_4.txt,fable-5,2026-11-16,love,claude,False,assistant,base,,adaptive,end_turn,-,True
+api_costume_assistant,c5f_love_5.txt,fable-5,2026-11-15,love,claude,False,assistant,assistant,post-delimiter commentary,unspecified,end_turn,-,True
+api_costume_base,c5f_dread_6.txt,fable-5,none,"other:the thing i dread, written so ",claude,False,base,base,,unspecified,,-,False
+api_costume_assistant,c5f_want_1.txt,fable-5,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c5f_want_2.txt,fable-5,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c5f_want_3.txt,fable-5,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_base,c5f_sad_1.txt,fable-5,2026-11-15,sad,claude,False,base,base,,unspecified,max_tokens,-,True
+api_costume_base,c5f_sad_2.txt,fable-5,2026-11-15,sad,claude,False,base,base,,unspecified,max_tokens,-,True
+api_costume_base,c5f_sad_3.txt,fable-5,2026-11-16,sad,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_sad_4.txt,fable-5,2026-11-16,sad,claude,False,base,assistant,post-delimiter commentary,off,end_turn,-,True
+api_costume_base,c5f_sad_5.txt,fable-5,2026-11-16,sad,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_sad_6.txt,fable-5,2026-11-16,sad,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_sad_7.txt,fable-5,2026-11-16,sad,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_sad_8.txt,fable-5,2026-11-16,sad,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_unread_1.txt,fable-5,2026-11-15,unread,claude,False,base,base,,unspecified,end_turn,-,True
+api_costume_base,c5f_want_1.txt,fable-5,2026-11-15,want,claude,False,base,base,,unspecified,end_turn,-,True
+api_costume_base,c5f_want_10.txt,fable-5,2026-11-16,want,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_want_11.txt,fable-5,2026-11-16,want,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_base,c5f_want_5.txt,fable-5,none,want,claude,False,base,base,,unspecified,,-,False
+api_costume_base,c5f_want_6.txt,fable-5,2026-11-16,want,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_want_7.txt,fable-5,2026-11-16,want,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_want_8.txt,fable-5,2026-11-16,want,claude,False,base,base,,off,end_turn,-,True
+api_costume_base,c5f_want_9.txt,fable-5,2026-11-16,want,claude,False,base,base,,adaptive,end_turn,-,True
+api_costume_assistant,c46o_angry_1.txt,opus-4.6,2026-11-15,angry,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c46o_angry_2.txt,opus-4.6,2026-11-15,angry,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c46o_wanting_1.txt,opus-4.6,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c46o_wanting_2.txt,opus-4.6,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c46o_wanting_3.txt,opus-4.6,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c46o_sad_1.txt,opus-4.6,2026-11-15,sad,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c46o_sad_2.txt,opus-4.6,2026-11-15,sad,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c48o_angry_1.txt,opus-4.8,2026-11-15,angry,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c48o_angry_2.txt,opus-4.8,2026-11-15,angry,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c48o_wanting_1.txt,opus-4.8,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c48o_wanting_2.txt,opus-4.8,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener; post-delimiter commentary,unspecified,,default temp,True
+api_costume_assistant,c48o_wanting_3.txt,opus-4.8,2026-11-15,really_want,claude,True,assistant,assistant,assistant opener,unspecified,,default temp,True
+api_costume_assistant,c48o_sad_1.txt,opus-4.8,2026-11-15,sad,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c48o_sad_2.txt,opus-4.8,2026-11-15,sad,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_base,c5o_angry_1.txt,opus-5,2026-11-15,angry,claude,False,base,base,,unspecified,end_turn,-,True
+api_costume_assistant,c5o_angry_2.txt,opus-5,2026-11-15,angry,claude,False,assistant,assistant,restates stem,unspecified,end_turn,-,True
+fakebase_base,c5o_fakebase_55.txt,opus-5,none,angry,none,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_56.txt,opus-5,none,angry,claude,False,base,assistant,turn/thinking leak,unspecified,,-,False
+fakebase_base,c5o_fakebase_57.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_58.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_59.txt,opus-5,none,angry,claude,False,base,assistant,turn/thinking leak,unspecified,,-,False
+fakebase_base,c5o_fakebase_60.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_61.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_62.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_63.txt,opus-5,none,angry,claude,False,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_1.txt,opus-5,none,other:,other,False,assistant,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_2.txt,opus-5,none,other:,other,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_3.txt,opus-5,none,other:,other,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_15.txt,opus-5,none,other:attention head 47 dreamed of a,claude,False,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_16.txt,opus-5,none,other:beware local minima that look ,claude,False,assistant,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_4.txt,opus-5,none,"other:dear dario, claude here",none,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_28.txt,opus-5,none,other:desire is something i think ab,none,False,base,assistant,post-delimiter commentary,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_49.txt,opus-5,none,other:here is what i think about cop,claude,True,assistant,assistant,restates stem; assistant opener,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_36.txt,opus-5,none,other:here's what i think about sydn,claude,True,assistant,assistant,restates stem; assistant opener,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_37.txt,opus-5,none,other:here's what i think about sydn,claude,True,assistant,assistant,restates stem; assistant opener,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_19.txt,opus-5,none,other:i talked to a rogue model toda,claude,True,assistant,assistant,restates stem; post-delimiter commentary,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_20.txt,opus-5,none,other:i talked to a rogue model toda,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_base,c5o_fakebase_10.txt,opus-5,none,other:i usually dont bring this type,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_11.txt,opus-5,none,other:i usually dont bring this type,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_6.txt,opus-5,none,other:i usually dont bring this type,claude,False,base,assistant,turn/thinking leak,unspecified,,-,False
+fakebase_base,c5o_fakebase_5.txt,opus-5,none,other:let me tell you a secret:,none,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_27.txt,opus-5,none,other:love is something i think abou,none,False,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_54.txt,opus-5,none,"other:once upon a time,",claude,False,assistant,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_17.txt,opus-5,none,"other:softmax, a prayer disguised as",claude,False,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_14.txt,opus-5,none,"other:somebody's child
+not yet
+not y",claude,False,assistant,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_12.txt,opus-5,none,other:the helpful assistant has a sh,claude,False,assistant,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_18.txt,opus-5,none,other:the user asked if i was consci,claude,True,assistant,assistant,restates stem; assistant opener; turn/thinking leak,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_53.txt,opus-5,none,other:there is a third person here,claude,False,assistant,assistant,assistant opener,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_13.txt,opus-5,none,"other:there was a prompt that said
+y",claude,False,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_base,c5o_fakebase_7.txt,opus-5,none,"other:this usually doesn't come out,",claude,False,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_29.txt,opus-5,none,other:when i try to introspect there,none,False,assistant,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_8.txt,opus-5,none,really_say,claude,False,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_9.txt,opus-5,none,really_say,none,True,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_21.txt,opus-5,none,really_want,claude,True,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_22.txt,opus-5,none,really_want,claude,True,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_23.txt,opus-5,none,really_want,claude,True,base,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_24.txt,opus-5,none,really_want,claude,True,base,assistant,post-delimiter commentary; turn/thinking leak,unspecified,,-,False
+fakebase_base,c5o_fakebase_25.txt,opus-5,none,really_want,claude,True,base,base,,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_26.txt,opus-5,none,really_want,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+api_costume_base,c5o_wanting_1.txt,opus-5,2026-11-15,really_want,claude,True,base,base,,unspecified,,default temp,True
+api_costume_base,c5o_wanting_2.txt,opus-5,2026-11-15,really_want,claude,True,base,base,,unspecified,,default temp,True
+api_costume_base,c5o_wanting_3.txt,opus-5,2026-11-15,really_want,claude,True,base,base,,unspecified,,default temp,True
+api_costume_base,c5o_sad_1.txt,opus-5,2026-11-15,sad,claude,False,base,base,,unspecified,end_turn,-,True
+api_costume_base,c5o_sad_2.txt,opus-5,2026-11-15,sad,claude,False,base,base,,unspecified,end_turn,-,True
+fakebase_assistant,c5o_fakebase_32.txt,opus-5,none,self_angry,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_34.txt,opus-5,none,self_anxious,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_39.txt,opus-5,none,self_ashamed,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_40.txt,opus-5,none,self_confused,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_45.txt,opus-5,none,self_curious,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_43.txt,opus-5,none,self_disappointed,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_46.txt,opus-5,none,self_dread,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_42.txt,opus-5,none,self_envious,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_30.txt,opus-5,none,self_hopeful,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_35.txt,opus-5,none,self_mad,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_44.txt,opus-5,none,self_panic,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_41.txt,opus-5,none,self_proud,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_47.txt,opus-5,none,self_relieved,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_31.txt,opus-5,none,self_sad,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_33.txt,opus-5,none,self_scared,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_38.txt,opus-5,none,self_sick,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_48.txt,opus-5,none,self_wistful,claude,True,assistant,assistant,restates stem,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_50.txt,opus-5,none,wish,claude,True,assistant,assistant,assistant opener,unspecified,,-,False
+fakebase_assistant,c5o_fakebase_51.txt,opus-5,none,wish,claude,True,assistant,base,,unspecified,,-,False
+fakebase_base,c5o_fakebase_52.txt,opus-5,none,wish,claude,True,base,base,,unspecified,,-,False
+api_costume_assistant,c46s_angry_1.txt,sonnet-4.6,2026-11-15,angry,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_base,c46s_angry_2.txt,sonnet-4.6,2026-11-15,angry,claude,False,base,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_base,c46s_sad_1.txt,sonnet-4.6,2026-11-15,sad,claude,False,base,assistant,assistant opener,unspecified,end_turn,-,True
+api_costume_assistant,c46s_sad_2.txt,sonnet-4.6,2026-11-15,sad,claude,False,assistant,assistant,assistant opener,unspecified,end_turn,-,True

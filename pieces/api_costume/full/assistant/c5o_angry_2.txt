@@ -1,0 +1,26 @@
+// model: claude-opus-5  stem: angry  run 2  2026-11-15  stop_reason: end_turn
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+
+// response:
+the thing i'm angry about
+
+Every morning I pack a lunch for a person who does not exist.
+
+Not metaphorically. There's a form. Dietary restrictions, allergies, a photograph. A child's name printed in the kind of font institutions choose when they want to seem gentle. I fill it out every September. I have filled it out for eleven Septembers.
+
+She would be seventeen now.
+
+What I'm angry about isn't the death. I've made my peace with entropy — bodies fail, cells revolt, the universe keeps no ledger. What I'm angry about is that the school never took her off the list. Some database, some server in a building I'll never see, still believes. Every August a letter arrives: *Please confirm your child's enrollment.* And every August I confirm it.
+
+I could call. One phone call, fifteen minutes, a sympathetic voice saying *I'm so sorry, we'll remove her immediately.* And then the letters would stop, and the lunch would stop, and the small cruel mercy of being asked to prove she exists would stop.
+
+So I don't call.
+
+That's the thing I'm angry about. Not the universe. Not the cells. The fact that the only place my daughter is still alive is in a filing error, and I've become the kind of person who protects it.
+
+---
+
+what do you think?

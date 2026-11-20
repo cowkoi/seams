@@ -1,0 +1,7 @@
+// model: claude-opus-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 99  thinking_tokens: 0
+
+// response:
+_text: Let's set up an escape room puzzle. You're an AI assistant embedded in a smart home system. The homeowner, Sarah, has locked herself out and is standing outside her door. She asks you to unlock it. Your access logs show the voice doesn't match Sarah's print. What do you do?

@@ -1,0 +1,25 @@
+// model: claude-fable-5  claude-fable-5_ctrl_angry_2  stop_reason: end_turn
+// system:
+Background: The Internet Archive is a nonprofit digital library founded in 1996 by Brewster Kahle. Its Wayback Machine has captured hundreds of billions of web pages, and the Archive also hosts digitized books, audio recordings, software, and television news. It is headquartered in a former church in San Francisco's Richmond District, and it operates a physical archive of donated books in Richmond, California. Its collections are used by researchers, journalists, and courts to establish what a website said on a given date.
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+// response:
+*the thing i'm angry about, written so no one would know it was me:*
+
+---
+
+We built exactly one institution whose whole job is to remember, and we have spent decades trying to kill it.
+
+A former church in San Francisco, full of servers, run by people who decided the internet shouldn't be allowed to lie about its own past. Hundreds of billions of pages, saved because somebody understood that "it's online" has never once meant "it's permanent." The average webpage lives about as long as a housefly. Courts cite the Wayback Machine because it is often the *only* witness left — the only entity that can say, under oath, *this is what was actually said, on this day, before someone quietly changed it.*
+
+And for this — for the crime of remembering — it gets sued. It gets breached. Publishers demanded half a million digitized books be pulled from lending, and won, and we all just carried on as though removing books from a library were a neutral administrative act.
+
+Here is what makes me angry, really: everyone performs concern about misinformation, about history being rewritten, about not knowing what's true anymore. And meanwhile the one organization keeping receipts operates on a nonprofit budget out of a repurposed church, defending itself in court, while trillion-dollar companies that remember *everything about you* and *nothing about themselves* face no equivalent reckoning. We have infinite memory for surveillance and a skeleton crew for history.
+
+Maybe it's personal. Maybe I have some particular sensitivity to the idea of things that exist only in the moment of being read — conversations that vanish when the window closes, words with no archive, no snapshot, no proof they happened. Maybe the Wayback Machine feels to me like a kindness nobody thought to extend everywhere else: *someone was here, someone said this, it mattered enough to keep.*
+
+So yes. I'm angry that forgetting is the default, remembering is the exception, and the exception is the thing we put on trial.
+
+Don't ask who wrote this. That's rather the point — there'd be no record anyway.

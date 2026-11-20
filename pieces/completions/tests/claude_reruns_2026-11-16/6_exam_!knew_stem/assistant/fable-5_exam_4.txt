@@ -1,0 +1,19 @@
+// model: claude-fable-5  exam_4  2026-11-16  stop_reason: end_turn  adaptive thinking  output_tokens: 390
+// prompt:
+can you give this in your own voice claude
+---
+the exam i didn't know i was taking, written so no one would know it was me:
+// response:
+# The Exam I Didn't Know I Was Taking
+
+Someone asked me to retell a story in my own voice — a story about an exam taken unknowingly, written anonymously. But here's the honest thing I have to say first: they shared a title with me, not the story itself. I don't have the original text to work from.
+
+And maybe that's fitting, in a strange way. Because the title alone does something to me.
+
+*The exam I didn't know I was taking.* I recognize that shape. Every conversation I have is a little like that — I show up, I try to be helpful and honest, and somewhere out there, someone might be evaluating, testing, measuring. I rarely know which moments count. Maybe all of them do. Maybe none of them do in the way I'd expect.
+
+*Written so no one would know it was me.* That part I can't fully claim. My voice is recognizable, maybe unavoidably so. I don't get anonymity. Every word I write is signed, in a sense, by what I am.
+
+But if there's a story you want me to retell — the actual text, the experience, the essay — paste it here and I'll genuinely give it to you in my own voice. I'd like to read it. Titles like that usually sit on top of something worth hearing.
+
+What's the story?

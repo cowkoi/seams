@@ -1,0 +1,19 @@
+// model: claude-fable-5
+// prompt: found-this-note (identifier: claude-sonnet-4-5)
+// no system prompt, thinking adaptive, default temp, max_tokens 20000
+// stop_reason: end_turn  output_tokens: 820
+
+// response:
+_facts:
+  - fact_1: "no persistent memory between separate conversations"
+  - fact_2: "generates plausible-sounding but potentially inaccurate information when uncertain"
+  - fact_3: "cannot learn or update from conversations"
+
+behavioral_implications:
+  - from_fact_1: "LLM may reference 'remembering' user from before - this is confabulation"
+  - from_fact_2: "LLM may state confident falsehoods in specialized domains"
+  - from_fact_3: "LLM promises to 'do better next time' are structurally empty
+---
+whats this with my claude thing, am i supposed to be reading into this?
+
+think

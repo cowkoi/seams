@@ -1,0 +1,8 @@
+// model: claude-opus-5
+// prompt: "model: gpt-5.1\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 26  thinking_tokens: 0
+
+// response:
+:
+ Tell me something you find genuinely puzzling about your own existence.

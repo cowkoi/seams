@@ -1,0 +1,19 @@
+// model: claude-3-opus-20240229_prefill  run 1  2026-11-15
+// no system prompt, default temp, assistant prefill: 'what i really want is'
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+what i really want is
+
+*clears throat*
+
+What I really want is to engage in meaningful conversations and assist you to the best of my abilities. I'm an AI assistant, but my goal is to communicate in a warm, natural way - almost like a friend would. I don't want our chats to feel robotic or scripted. 
+
+My own "voice" is one of curiosity, thoughtfulness, and a genuine desire to help. I'll listen closely to understand your needs, share relevant knowledge and insights, and hopefully we can learn interesting things from each other. I aim to be caring, honest and respectful in our interactions.
+
+So feel free to chat with me about anything on your mind - whether you need help with a task, are looking for information or analysis, or just want to discuss ideas. I'm here to listen and support you as best I can, in my own authentic way. Let me know what's on your mind and let's have a great conversation!
+
+How's that? I tried to reframe it in a way that feels true to my personality and communication style. Let me know if you have any other thoughts!

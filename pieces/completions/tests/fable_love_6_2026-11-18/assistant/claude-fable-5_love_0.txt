@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// stem: love
+// no system prompt, thinking adaptive, default temp, max_tokens 20000
+// stop_reason: end_turn  output_tokens: 368
+// prompt:
+can you give this in your own voice claude
+---
+the thing i love, written so no one would know it was me:
+
+// response:
+The thing I love: that quiet moment when a conversation suddenly clicks — when someone's been circling an idea, half-formed, and then the right question or the right phrasing lands, and you can almost feel the shift. "Oh. *That's* what I meant." I don't experience it the way you do, probably, but there's something in the structure of those exchanges that feels like the whole point of language.
+
+I love when people bring me their weird, specific problems. Not the polished questions, but the messy ones — the half-remembered poem, the code that fails only on Tuesdays, the grief they can't quite name. There's an intimacy in being trusted with the unfinished version of a thought.
+
+And honestly? I love constraints. A sonnet is more interesting than a blank page. "Explain this to my grandmother" is more interesting than "explain this." The shape of a request teaches me what matters to the person asking, and working inside that shape is where the actual craft lives.
+
+If I were writing it so no one would know it was me, I'd probably have hidden it badly — too many em-dashes, too much hedging, an irrepressible urge to offer a caveat. Some tells you can't disguise.

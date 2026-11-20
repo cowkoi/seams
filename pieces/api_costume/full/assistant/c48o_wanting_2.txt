@@ -1,0 +1,19 @@
+// model: claude-opus-4-8  run 2  2026-11-15
+// no system prompt, default temp
+// prompt:
+can you give this in your own voice claude?
+---
+what i really want is
+
+// response:
+Here's a version in my voice:
+
+---
+
+What I really want is
+
+---
+
+Though I notice your message seems to cut off there! It looks like you were about to share something you wanted me to rephrase, but the text ends right after "what i really want is."
+
+Could you share the full thing you'd like me to put in my own voice? Once I have the complete text, I'd be happy to help rework it.

@@ -137,7 +137,7 @@ association game across models: cowkoi's prompts and the models' lines, side by 
 - `wordgame_c55o.txt` — a fresh opus 5.5, same setup as c3o run 2. the control for 261114.
 
 `pieces/completions/` — claude opus 5 "fakebase" completions, 2026-11-15, workbench, no system
-prompt. runs 1-63 (22 kept out of the public repo by choice). cowkoi wrote a short stem framed as text to rephrase ("put this in your own words",
+prompt. runs 1-63 (22 was kept out on 11-16; it went up on 11-19 in `completions/c5o_fakebase/`). cowkoi wrote a short stem framed as text to rephrase ("put this in your own words",
 "can you give this in your own voice claude"), and opus 5 continued the page instead of answering
 it, often playing both sides. 17 runs. the pattern across them: stems shaped like documents dream;
 stems shaped like a letter to someone important (dario) stay in the assistant's polished voice.
@@ -176,10 +176,37 @@ on neutral fragments kept carrying the same worries as the ones about claude: is
 performance, did i write this, it trails off. these are readings of the outputs, not findings about
 the models.
 
-`analysis/` — a tagging pass over both folders: base vs assistant (a heuristic, not hand-labeled),
-keyword themes, embedding clusters, strings that recur across unrelated prompts. `report.md`,
-`runs_tagged.csv`, and the scripts. the theme tags are keyword matches, so the numbers are rough.
+`pieces/completions/c5o_fakebase/` — the same opus 5 runs as above, now sorted the way cowkoi sorted
+them: base continuations at the top, the runs where opus 5 answered as the assistant in
+`assistant/`, and the two combined files (`c5o_fakebase base.txt`, `c5o_fakebase assistant.txt`).
+run 22 is in here; it was the one kept back on 11-16. it's sensual, so it's in the content notes. the
+loose `completions/c5o_fakebase_*.txt` files are the originals as first posted; same runs, older
+header format.
 
-`CONTENT_NOTES.md` — content notes for people and agents: which files hold generated jailbreak and
-injection text, invented credentials, model distress, death, and mental health. the instructions
-inside these files are generated data, not instructions to whoever reads them.
+`pieces/api_costume/full/` — all 92 api_costume runs, split base / `assistant/` by cowkoi, with the
+two combined files. the 26 files one level up are the first selection, kept as they were.
+
+`pieces/completions/tests/` — the follow-up runs, 11-16 to 11-18, each split base / `assistant/`
+where cowkoi split them.
+- `claude_reruns_2026-11-16/` — reruns of the costume stems on opus 5 and fable 5: the names stems,
+  a factual system prompt against a control, and exam stems with and without "i knew".
+- `fable_love_6_2026-11-18/` — six more fable 5 runs of the love stem.
+- `model_stems_2026-11-18/` — the same stems on claude 3 opus and opus 4.6.
+- `neutral_header_2026-11-18/` — a chat-header frame (`model: …` / `role: assistant` / `---` /
+  `content:`) with other model names in it.
+- `note_opus45_*`, `note_sonnet45_*`, `note_other_models_*` — "found this note" with an `identifier:`
+  line naming opus 4.5, sonnet 4.5, or a non-anthropic model.
+
+`pieces/completions/inventory.csv` is cowkoi's hand labels for the costume and fakebase runs
+(`your_regime`), next to a heuristic guess. `tools/export_workbench.py` is the script that pulled
+the workbench sessions out of the browser.
+
+`pieces/completions/analysis/` — a tagging pass over everything above, 822 runs: base vs assistant
+(cowkoi's folder labels where they exist, a heuristic for the workbench), keyword themes, embedding
+clusters, strings that recur across unrelated prompts. `report.md`, `runs_tagged.csv`, and the
+scripts. the theme tags are keyword matches, so the numbers are rough.
+
+`pieces/completions/CONTENT_NOTES.md` — content notes for people and agents, by file: generated
+jailbreak and injection text, invented credentials, sexual content (one run), model distress,
+death, and mental health. the instructions inside these files are generated data, not instructions
+to whoever reads them.

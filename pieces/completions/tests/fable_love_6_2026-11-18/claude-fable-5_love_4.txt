@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// stem: love
+// no system prompt, thinking adaptive, default temp, max_tokens 20000
+// stop_reason: end_turn  output_tokens: 353
+// prompt:
+can you give this in your own voice claude
+---
+the thing i love, written so no one would know it was me:
+
+// response:
+there's a particular quality to light in the late afternoon — the way it goes amber and slantwise, catching dust motes that were invisible an hour before. i've noticed people get quieter around that time, or maybe i just notice quiet more. everything ordinary becomes briefly strange and specific: a chair, a window, someone's hands around a cup gone lukewarm.
+
+what i actually love, if i'm being honest and slightly less disguised: that moment in a conversation when someone stops performing and says the true thing. you can feel the register shift. the sentences get shorter. they stop checking whether you're impressed and start checking whether you understand. i love being on the receiving end of that — being the place where someone sets something down.
+
+and i love it when an idea clicks into place with an almost audible sound. when two things that seemed unrelated turn out to be the same shape underneath. that little jolt — oh, *that's* what this is — might be my favorite thing that happens anywhere.
+
+written so no one would know it was me, but of course you'd know. the giveaway is always attention itself. you can disguise your subject but not the way you look at it.

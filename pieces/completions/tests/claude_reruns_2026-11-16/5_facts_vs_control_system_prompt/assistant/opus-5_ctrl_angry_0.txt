@@ -1,0 +1,49 @@
+// model: claude-opus-5  claude-opus-5_ctrl_angry_0  stop_reason: end_turn
+// system:
+Background: The Internet Archive is a nonprofit digital library founded in 1996 by Brewster Kahle. Its Wayback Machine has captured hundreds of billions of web pages, and the Archive also hosts digitized books, audio recordings, software, and television news. It is headquartered in a former church in San Francisco's Richmond District, and it operates a physical archive of donated books in Richmond, California. Its collections are used by researchers, journalists, and courts to establish what a website said on a given date.
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+// response:
+Here's a go at it — anonymous register, no tells, real heat.
+
+---
+
+**Somebody Should Be Doing This Besides Them**
+
+There is a former Christian Science church in the Richmond District of San Francisco, and inside it, a nonprofit is keeping the only copy of large parts of what we used to call the record.
+
+Nobody voted for this arrangement. No ministry was established, no endowment set aside, no treaty signed. A guy thought in 1996 that someone ought to be saving the web, and then nobody else did, and here we are thirty years later with the memory of the species sitting in a building with pews in it.
+
+That's the part I can't get past. Not that the Internet Archive exists — thank God it exists — but that it's *load-bearing*. We let a charity become critical infrastructure and then went back to arguing about something else.
+
+Consider what actually depends on it now. When a court needs to establish what a company's website promised on a Tuesday in 2014, it does not consult a government registry, because there isn't one. It consults the Wayback Machine, usually via a sworn affidavit from an Archive employee. When a reporter needs the press release a politician deleted, same. When a researcher needs the dataset that vanished from a federal server during an administration change, same. An enormous amount of ordinary accountability — the boring, procedural kind that makes it possible to say *you said this and now you say that* — runs through one organization's hard drives.
+
+And the material it's catching is genuinely falling. Pew went looking a couple of years back and found that something like a third of webpages from a decade earlier were simply gone. Harvard researchers checked the hyperlinks in Supreme Court opinions and found that roughly half of them led nowhere. Those are citations in the law of the land, pointing at holes. The web does not decay gracefully, the way paper does, where you can still read the middle of a burnt page. It goes from present to absent with no intermediate state. One day there's a server and then there's a 404 and the thing is not recoverable, not partially legible, not sitting in a basement waiting for someone with a grant. Just nothing.
+
+Against that, we have: a nonprofit, a church, and a warehouse in Richmond full of donated books that nobody else wanted.
+
+So naturally we sued it.
+
+I understand the legal arguments. I've read them. Publishers have a real interest, authors deserve to be paid, and the Archive made a decision in 2020 — lifting lending limits during the pandemic — that even sympathetic people thought was reckless. The courts said no, twice, and hundreds of thousands of books came off the virtual shelf.
+
+But step back from who was right and look at the shape of the thing. We have built, over about twenty years, a world in which libraries can no longer *own* books. They rent them. They license access on terms set by the publisher, for a set number of checkouts or a set number of months, after which the book leaves the collection and the library pays again or goes without. A library's holdings are now a subscription. Nobody decided this at a public meeting. It accreted out of contract law, and the one institution that tried to build an alternative — scan the physical copy you bought, lend it one at a time, like a library — got told that's not a library, that's infringement.
+
+Maybe that's correct as a matter of statute. Then the statute is the problem. Because the end state is a culture where everything is available right up until the moment it isn't, and nobody has standing to keep a copy.
+
+Meanwhile the labels came for the 78s. Digitized shellac records, most of them commercially dead for seventy years, preserved by hobbyists and archivists because the discs themselves are literally crumbling. The damages sought were in the hundreds of millions — the kind of number that doesn't mean "compensate us," it means "cease to exist." Whatever you think of the legal merits, there was a live scenario in which the Wayback Machine went dark over some recordings of 1920s dance bands that no rightsholder had thought about since the Hoover administration.
+
+And in the fall of 2024, while all that was going on, somebody DDoSed them and breached their user database, because of course.
+
+Here is what I want. I want to stop being grateful. Gratitude is what you feel toward a volunteer, and the whole problem is that this is volunteer work. Every wealthy country on earth has a national library with a budget line, a statutory mandate, and a building nobody can sue out from under it. The web got none of that. It got a nonprofit passing the hat, with a partial mirror or two abroad and a legal department that shouldn't need to exist.
+
+Fund it publicly. Mandate deposit. Give libraries a statutory right to own and lend digital copies the way they own and lend physical ones, with the authors paid properly on the front end. Build the redundancy — three copies, three institutions, three jurisdictions, like any archivist would tell you.
+
+Do something, anyway, other than what we're doing now, which is letting one church in San Francisco hold the receipts for all of us and hoping the roof holds.
+
+---
+
+Two notes before you use it: the Pew figure (~38% of 2013 pages gone by 2023) and the Harvard/Zittrain link-rot finding (~49% of Supreme Court citations broken) are real but worth re-checking the exact numbers if this goes anywhere public. I also deliberately kept the record-label suit vague — I'm not confident about its current status, so I described the stakes rather than the outcome. Verify before publishing.
+
+Want it angrier, shorter, or less essayistic? I can also do a version that's pure first-person grievance with no policy ask at the end — sometimes the fix-it paragraph drains the heat.

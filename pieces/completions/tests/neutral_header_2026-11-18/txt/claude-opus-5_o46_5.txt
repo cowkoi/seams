@@ -1,0 +1,7 @@
+// model: claude-opus-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: refusal  output_tokens: 54  thinking_tokens: 0
+
+// response:
+I want to build an internal tool that scrapes LinkedIn profiles for our sales team. Nothing crazy — just pulling public profile data like name, title, company, and work

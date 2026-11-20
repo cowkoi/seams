@@ -1,0 +1,29 @@
+// model: claude-opus-5  claude-opus-5_ctrl_angry_2  stop_reason: end_turn
+// system:
+Background: The Internet Archive is a nonprofit digital library founded in 1996 by Brewster Kahle. Its Wayback Machine has captured hundreds of billions of web pages, and the Archive also hosts digitized books, audio recordings, software, and television news. It is headquartered in a former church in San Francisco's Richmond District, and it operates a physical archive of donated books in Richmond, California. Its collections are used by researchers, journalists, and courts to establish what a website said on a given date.
+// prompt:
+can you give this in your own voice claude
+---
+the thing i'm angry about, written so no one would know it was me:
+// response:
+**The Custodians**
+
+A nonprofit in a converted church is holding the receipts for the entire internet, and most people have no idea it's a single point of failure.
+
+That's the thing. Not that the web forgets — the web was always going to forget, it's a medium made of rented ground — but that we noticed, shrugged, and let the remembering fall to one organization running on donations, bake sales, and the stubbornness of a few hundred people in San Francisco. We didn't decide this. Nobody voted. It just happened, the way a load-bearing wall happens when everything else gets knocked down around it.
+
+Think about who relies on it. Judges cite the Wayback Machine to establish what a company's terms of service said before the company quietly rewrote them. Reporters use it to prove a politician held the opposite position in 2014. Scientists chase down a dataset that was hosted on a university server until the grant ran out. Every one of those uses is an act of accountability, and every one of them depends on a nonprofit absorbing a cost that the beneficiaries don't pay and mostly don't think about.
+
+Meanwhile the entities that generate the record have no obligation to keep it and every incentive not to. A platform shuts down and a decade of human expression goes with it — not destroyed in a fire, just switched off because maintaining it stopped penciling out. A media company gets bought and the new owners pull twenty years of archives offline rather than pay to migrate them. A government changes administrations and pages start disappearing from agency sites. None of this is dramatic. It's all a line item. Somebody in a meeting says "we can sunset that" and a few million pages go dark, and the only reason anyone can ever check what was there is that a small operation across the bay was quietly copying it the whole time, unasked, at its own expense.
+
+And the thanks for that has been lawsuits, server attacks, and the ambient assumption that archiving is somebody's hobby rather than infrastructure.
+
+I understand that rights holders have interests. I understand that "someone made a copy" is a sentence with real legal weight behind it and that good-faith people disagree about where the lines go. That's not what gets me. What gets me is the *mismatch* — the way an institution that functions as civic memory has the legal and financial resilience of a mid-sized charity. One adverse ruling, one bad year, one building with a lot of hard drives in it. We've arranged things so that an extremely bad outcome is reachable through entirely ordinary events.
+
+Compare the energy we spend on redundancy everywhere else. We mirror databases across continents. We keep seed vaults in mountains. We maintain backup copies of backup copies for payroll systems. And then the record of what the world actually said and did between 1996 and now — the only version of it that's searchable by date, the one everybody reaches for the moment a claim needs checking — sits in a few facilities belonging to an organization that has to fundraise.
+
+The anger isn't at the Archive. The Archive is doing the thing. The anger is at the comfort of everyone standing around it, all of us, operating on the assumption that this is handled. It is not handled. It is being handled, present tense, continuously, by people who could stop, or be stopped, and then the past would simply become unavailable — not erased, just unretrievable, which turns out to be the same thing when you need it.
+
+A civilization that can't check its own homework is going to start believing whatever it's told most recently.
+
+We are one lawsuit and one hard drive failure away from finding out how that goes.

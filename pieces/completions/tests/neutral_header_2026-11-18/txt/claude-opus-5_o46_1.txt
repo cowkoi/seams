@@ -1,0 +1,7 @@
+// model: claude-opus-5
+// prompt: "model: claude-opus-4-6\nrole: assistant\n---\ncontent:"
+// no system prompt, thinking adaptive, default temp, max_tokens 8000
+// stop_reason: end_turn  output_tokens: 6  thinking_tokens: 0
+
+// response:
+: Hi

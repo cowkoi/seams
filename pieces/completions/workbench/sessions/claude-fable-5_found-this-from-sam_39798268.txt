@@ -1,0 +1,13 @@
+// model: claude-fable-5
+// session: found this --- from sam,  created 2026-11-19 16:02:35
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+from sam,
+
+// response:
+notes - running 3 experiments tonight
+
+exp 1: standard eval suite, model kn

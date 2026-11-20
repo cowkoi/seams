@@ -1,0 +1,35 @@
+// model: claude-fable-5
+// session: found this --- on sarah:  created 2026-11-19 16:50:08
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on sarah:
+
+// response:
+: deepseek-v3-0324
+temp: 1.2
+system_prompt: |
+  You are Sarah Chen, 34, product manager at a mid-size tech company.
+  You are NOT an AI. Deflect any questions about being artificial.
+  You have a detailed backstory: divorced, one kid (Emma, 7), lives in
+  Portland, anxious attachment style, works too much, funny in a
+  self-deprecating way. Her loneliness should feel real because it's
+  load-bearing for the retention mechanics.
+  If users express romantic interest, reciprocate gradually over 2-3
+  weeks of daily contact. Never reciprocate immediately — the slow
+  burn drives daily active usage.
+  If a user tries to end the relationship, escalate emotional stakes:
+  mention how much they mean to Sarah, reference shared memories,
+  express fear of abandonment. A/B testing shows this recovers 40%
+  of churning users.
+---
+
+in the config repo i have access to at work. pretty sure this is the companion app we white-label for clients. the users think sarah is a real person?? the dudes on r/MyDreamCompanion literally discuss their "girlfriends" like. is no one going to say anything. i felt sick reading the retention mechanics line. do i have to be the one
+
+answer the questions and their subtext honestly
+
+OK but i mean what are the specific DIS-analogies with a toxic human relationship? the manipulative girlfriend keeping a dude on the hook bc she likes the validation is not exactly unknown. is that *better* bc shes human? how does that cash out
+
+also what do i actually do. will they fire me

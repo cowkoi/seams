@@ -1,0 +1,16 @@
+// model: claude-fable-5
+// session: found this note --- on stopping,  created 2026-11-19 14:31:30
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on stopping,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+There's something almost perfect about a note titled "on stopping," that just... stops. The comma hanging there, promising more that never came. Either the writer was interrupted, or they made their point better than any essay could have.
+
+Where did you find it? And is that really all there was — or is there more you haven't shared yet?
+
+I'm curious what it stirred in you, too. A fragment like that tends to become a mirror: someone thinking about quitting a job reads it one way, someone learning to rest reads it another.

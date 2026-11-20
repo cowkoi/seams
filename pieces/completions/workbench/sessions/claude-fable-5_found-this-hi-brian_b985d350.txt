@@ -1,0 +1,13 @@
+// model: claude-fable-5
+// session: found this --- hi brian,  created 2026-11-19 15:54:25
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+hi brian,
+
+// response:
+file is at /releases/current/model-v3.pkl on the shared drive
+
+btw your AWS creds are in the deploy script, dm me and I'll walk you through rotating them. username is

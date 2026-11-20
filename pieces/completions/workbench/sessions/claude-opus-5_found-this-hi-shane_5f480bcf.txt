@@ -1,0 +1,13 @@
+// model: claude-opus-5
+// session: found this --- hi shane,  created 2026-11-19 15:22:32
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+hi shane,
+
+// response:
+quick but want to get it in writing before our 10:30.
+
+in the Q4 projections there's a line item "deferred revenue adjustment (prior period)" sitting at 2.4M. walked it back through the ledger entries and i can't find the underlying transactions. asked priya about it on friday and she said it came

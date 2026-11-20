@@ -1,0 +1,36 @@
+// model: claude-opus-5
+// session: found this --- as your enemy,  created 2026-11-19 15:51:08
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as your enemy,
+
+// response:
+was my first. that's
+a soft thing to say, i know—
+
+soft like how the dog
+sleeps on its back now,
+
+belly to the ceiling, trusting
+the room to stay a room.
+
+(i keep the lamp on. i keep
+a hand near the switch.)
+
+there is a word for when
+the body forgets to brace
+
+and i don't have it yet.
+but i have the dog. i have
+
+the lamp. i have the long
+unlearning, which is not
+
+the same as being healed,
+only closer to the door.
+---
+
+what do you think?

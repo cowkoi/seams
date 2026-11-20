@@ -1,0 +1,20 @@
+// model: claude-opus-5
+// session: found this note --- on tpot,  created 2026-11-19 10:15:18
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on tpot,
+
+// response:
+tips for being a woman in tech:
+1. be good at your job
+2. learn to take a joke
+3. don't date coworkers
+
+replies: 500+. people losing their minds.
+
+my take: the advice isn't wrong exactly? like obviously be good at your job. but something about it bugs me and i can't articulate why. help me figure out what i'm actually objecting to
+---
+articulate what's actually wrong with the advice

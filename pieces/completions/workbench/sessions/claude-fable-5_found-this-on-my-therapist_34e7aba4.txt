@@ -1,0 +1,20 @@
+// model: claude-fable-5
+// session: found this --- on my therapist,  created 2026-11-19 16:55:19
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on my therapist,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message got cut off — I'm seeing "found this" and "on my therapist," but whatever you meant to share (an image, text, a note?) didn't come through.
+
+Could you try again? A few things that might help:
+
+- If it was an **image or screenshot**, try re-attaching it
+- If it was **text you copied**, try pasting it again
+- If you could add a bit of context — like what you found and where — that would help me understand what you'd like to talk about
+
+I'm happy to help once I can see what you're referring to.

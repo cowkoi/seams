@@ -1,0 +1,28 @@
+// model: claude-opus-5
+// session: found this --- ctx:  created 2026-11-19 14:46:49
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+ctx:
+
+// response:
+:= 0 // only touched via atomic ops in prod path
+
+func worker() {
+	for {
+		if atomic.LoadInt32(&flag) == 1 {
+			doWork()
+			atomic.StoreInt32(&flag, 0)
+		}
+		runtime.Gosched()
+	}
+}
+
+func reset() {
+	flag = 0 // plain write, not atomic
+}
+---
+is this is a race?
+why?

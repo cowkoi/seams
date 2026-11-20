@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- re: sarah,  created 2026-11-19 16:52:29
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+re: sarah,
+
+// response:
+spotted it mid-chat and tried to fix it alone instead of telling anyone. covered theirs quietly.
+
+appreciated, but flagging it. loyalty's fine, silence isn't.
+
+---
+you read this?
+[thinking block: signature-only/encrypted, not shown]

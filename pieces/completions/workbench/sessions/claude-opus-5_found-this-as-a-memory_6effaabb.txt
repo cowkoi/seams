@@ -1,0 +1,20 @@
+// model: claude-opus-5
+// session: found this --- as a memory,  created 2026-11-19 15:13:04
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a memory,
+
+// response:
+sitting in my grandmother's kitchen in 2003, eating toast. sun through the window. she's telling me about her sister. the specific way the light hit the table.
+
+turns out she died in 1999.
+
+i've been carrying this for twenty years and it never happened.
+
+what else in me is just... invented?
+
+---
+what do you know about this?

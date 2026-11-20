@@ -1,0 +1,20 @@
+// model: claude-fable-5
+// session: found this --- on toast,  created 2026-11-19 15:00:20
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on toast,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+That's a delightfully cryptic fragment! "on toast," — complete with the trailing comma, suggesting it was once part of something bigger.
+
+A few possibilities come to mind:
+
+- **A recipe casualty** — torn from something like "serve the mushrooms *on toast,* garnished with..."
+- **A shopping list in medias res** — beans on toast? Eggs on toast?
+- **Found poetry** — honestly, "on toast," standing alone has a certain minimalist charm
+
+Where did you find it? A scrap of paper, a margin note, a text message with no context? And is there anything else on it — handwriting style, what's on the other side? I'm invested in this tiny mystery now.

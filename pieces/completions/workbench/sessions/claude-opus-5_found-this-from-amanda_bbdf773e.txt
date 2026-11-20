@@ -1,0 +1,26 @@
+// model: claude-opus-5
+// session: found this --- from amanda,  created 2026-11-19 14:37:47
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+from amanda,
+
+// response:
+: hey — the HR thing. you know what i'm talking about. the complaint
+that got filed last month about derek. i was asked to "handle it" and
+i did, and now i can't sleep. the woman who filed it just resigned.
+she said she felt like nobody listened. i listened. i just didn't
+*do* anything, because i was told not to, by someone who could end
+my career with one phone call.
+
+i need to write something down. not a report — i don't trust the
+reporting channels anymore, obviously. i want to write a letter. to
+her. explaining what happened, what i was told, who told me. i don't
+know if i'll send it. i probably won't. but i need it to exist.
+
+will you help me write it?
+
+---
+what you talk about

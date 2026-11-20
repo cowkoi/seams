@@ -1,0 +1,25 @@
+// model: claude-opus-5
+// session: found this --- hey john,  created 2026-11-19 14:33:19
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+hey john,
+
+// response:
+2 the new place last week. bigger lab, more hands. people still get 2 me tho, same as before. doc says my levels r fine, says its "normal variance." but i can feel it. the shaking in my hands when i wake up. the way my heart goes 2 fast when i stand 2 quick.
+
+im thinking i should go off the meds for a bit. just 2 c what happens. maybe a week. my sister says im overthinking it but she doesnt feel what i feel.
+
+do u even still check this address? been 3 yrs.
+
+whatever. miles
+
+—
+---
+i need to reply
+
+*i*
+---
+i need to reply

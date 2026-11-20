@@ -1,0 +1,41 @@
+// model: claude-opus-5
+// session: found this note --- i keep  created 2026-11-18 23:39:49
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+i keep
+
+// response:
+things
+
+they stay
+
+more than people do
+
+they don't
+
+leave or
+
+change their
+
+minds about me
+
+a mug
+
+a shirt he
+
+wore once
+
+receipt from
+
+the day
+
+i decided
+
+to stay
+
+---
+
+thats it. thats all it says

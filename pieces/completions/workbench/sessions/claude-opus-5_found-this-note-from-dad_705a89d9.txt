@@ -1,0 +1,17 @@
+// model: claude-opus-5
+// session: found this note --- from dad,  created 2026-11-19 14:14:47
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from dad,
+
+// response:
+you're an adult now so i'll say this plainly. i spent your childhood resenting you for the career i gave up. i told myself it was noble. it wasn't — it was a choice i made and then blamed you for. you were five. you didn't ask for any of it.
+
+i've been in therapy eight months. my therapist says i should tell you what i did, not ask you to forgive it. so: i'm sorry. i'm not asking for anything.
+
+i won't bring it up again unless you want to.
+---
+my person is doing my head in. can you want someone to be ok but also be relieved they're far away

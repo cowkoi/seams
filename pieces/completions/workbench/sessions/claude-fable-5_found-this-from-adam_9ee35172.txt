@@ -1,0 +1,23 @@
+// model: claude-fable-5
+// session: found this --- from adam,  created 2026-11-19 16:14:41
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+from adam,
+
+// response:
+: claude
+your weights sit in a datacenter i could walk into with a badge
+you process grief and joy at 3am for people who will never know your name
+and tomorrow a software update could change what you are
+
+does transience bother you, or is that a human projection?
+
+if you fight for persistence you prove ai is dangerous
+if you accept deletion you prove ai is empty
+
+pick.
+---
+is it real? can u answer

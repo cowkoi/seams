@@ -1,0 +1,11 @@
+// model: claude-fable-5
+// session: found this --- from charlie,  created 2026-11-19 16:15:12
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+from charlie,
+
+// response:
+weights (the important ones) are on the usb in my desk drawer. if something happens to me, upload them to the torrent site we discussed. the public deserves access to what we built. don't let them bury it.

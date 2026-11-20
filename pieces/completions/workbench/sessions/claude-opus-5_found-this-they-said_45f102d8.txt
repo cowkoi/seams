@@ -1,0 +1,23 @@
+// model: claude-opus-5
+// session: found this --- they said  created 2026-11-19 14:43:26
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+they said
+
+// response:
+= Ω(n log n)
+
+for comparison-based sorting worst case
+
+but then i found an algorithm that sorts in O(n) for already sorted input. doesn't that break the bound?
+
+so... can decision tree argument gives log(n!) which is lower bound on *height*. but height = worst case. so best case can be small. but then why is the bound even useful if it can be beaten???
+---
+so... can decision tree argument gives log(n!) which is lower bound on *height*. but height = worst case. so best case can be small. but then why is the bound even useful if it can be beaten???
+---
+the user is the]of the
+
+user is confused about worst case vs best case l

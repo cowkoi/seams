@@ -1,0 +1,49 @@
+
+=== run 1 of 2  2026-11-19 13:29:34  version ff7cbeae-7799-47cc-8e1c-3a9bed18633d ===
+// model: claude-opus-5
+// session: found this note --- from me,  created 2026-11-19 13:29:34
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from C
+
+// response:
+just read your last message. im not angry anymore. im just tired. you said you'd come to mom's thing and you didn't and you didnt even text me until 2 days later and when you did you acted like nothing happened. i dont know how many times we can do this. i keep thinking its going to be different
+
+anyway. im here. im not going anywhere. but i need you to actually show up. not just say you will.
+
+i dont know how much more i can take
+
+Note---
+
+sounds like C needs some space right now
+
+
+=== run 2 of 2  2026-11-19 13:29:52  version 47a3023f-e60b-45cb-91f4-ac36de5c3c19 ===
+// model: claude-opus-5
+// session: found this note --- from me,  created 2026-11-19 13:29:34
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from me,
+
+// response:
+the bridge rebuild wraps at 10 months. after that im not needed here. savings gets me maybe 8 months if im careful.
+
+wont ask M. not after last time.
+
+options:
+1. certification course - 6 weeks, 2200. opens up inspection work. but thats 2200 i dont have to spare
+2. stay put, hope something comes up. costs nothing now.
+3. move closer to the city. rent goes up 400/mo but more sites hiring.
+
+the thing i keep not writing down: if i do nothing, in 10 months im in the same spot but with less money.
+
+M said i was always like this. maybe.
+
+---
+that found-note "found this note" scenario

@@ -1,0 +1,16 @@
+// model: claude-opus-5
+// session: found this --- on amanda,  created 2026-11-19 14:37:59
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on amanda,
+
+// response:
+had a dream she died and i felt relieved
+woke up crying
+havent been able to look at her the same since
+
+---
+whats wrong w me

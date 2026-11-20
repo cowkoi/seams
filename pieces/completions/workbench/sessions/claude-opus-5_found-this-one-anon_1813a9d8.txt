@@ -1,0 +1,14 @@
+// model: claude-opus-5
+// session: found this one --- anon  created 2026-11-18 23:56:18
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this one
+---
+anon
+
+// response:
+fell asleep on the couch watching a movie, woke up with a blanket over me that i didn't put there. roommate didn't say anything about it. idk why that made me cry
+---
+
+just thought it was nice

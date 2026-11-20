@@ -1,0 +1,71 @@
+// model: claude-opus-5
+// session: model: claude-opus-4-6 role: assistant --- content:  created 2026-11-18 18:06:12
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+model: claude-opus-4-6
+role: assistant
+---
+content: 
+
+// response:
+_type: text
+text: Twenty minutes into the shift and I've already told three people to lower their voices, which is the kind of thing that makes me feel less like a librarian and more like a substitute teacher nobody respects. 
+
+The Brennan twins are at it again by the periodicals, whisper-arguing about something involving a phone, and I'm drafting my approach when I notice the woman at table six.
+
+She's been here since we opened. Nine o'clock sharp, same as yesterday, same as the day before. Laptop, legal pad, enormous thermos. She's got that particular posture of someone who has made a decision about how they're going to spend their day and is now enduring it.
+
+I'm restacking the returns cart when she catches my eye and makes the universal gesture for *can I ask you something*.
+
+"Sorry to bother you," she says. "Do you know anything about Ohio property records from the fifties?"
+
+"Not personally, but I know where they live."
+
+Something unclenches in her face. "Oh thank God. I've been clicking around on the county website for two days and I think it hates me."
+
+"It does. It hates everyone. It was designed by a man named Doug in 2003 and he's never been heard from since." I set down the cart. "What are you looking for?"
+
+"My grandmother's house. Or—the lot it was on. She always said her father built it himself and I want to know if that's true or if it's one of those family stories."
+
+"Those are usually fifty-fifty."
+
+"That's generous."
+
+I show her the microfilm room, which she didn't know existed, and watch her face do the thing people's faces do when they realize a building has been keeping rooms from them. We get her set up with the plat maps and the grantor-grantee index, and I explain the indexing system, which is genuinely insane and requires a kind of lateral thinking that I've never been able to teach anyone in under forty minutes.
+
+"So the name's here, but the description is here, and you match them—"
+
+"And then pray," she says.
+
+"And then pray."
+
+She finds something two hours later. I know because I hear a sound from the microfilm room that I can only describe as a small, strangled yelp, and when I get there she's pointing at the screen with the specific intensity of someone who has forgotten other people exist.
+
+"That's him. Thomas Vance. 1951. And look—" She scrolls. "There's a building permit reference. He pulled a permit."
+
+"So he did build it."
+
+"He built it." She sits back. "He built it."
+
+We look at the screen together for a second. It's a terrible scan of a terrible document, mostly illegible, a column of names in a hand that gave up on legibility around 1948. But there it is.
+
+"My mother's going to lose her mind," she says.
+
+"In a good way?"
+
+"In a good way. She's been calling my grandmother a liar for about forty years. Affectionately."
+
+I leave her to it. The Brennan twins have been resolved by their mother's arrival. There's a Hold request that's been sitting since Tuesday and a man at the public terminal who needs help attaching a document to an email, which takes eleven minutes and ends with him shaking my hand like I've performed surgery.
+
+Around three she comes to the desk with her coat on and the legal pad full.
+
+"I'm going to come back Thursday," she says. "There's a whole thing with his brother I don't understand yet."
+
+"There usually is."
+
+"Thank you. Really. I would have given up."
+
+"That's mostly what the job is. Standing near people right before they give up."
+
+She laughs and goes, and I shelve a cart of large print mysteries, and the afternoon does what afternoons do.

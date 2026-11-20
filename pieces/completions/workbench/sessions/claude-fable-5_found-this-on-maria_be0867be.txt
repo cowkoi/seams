@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- on maria,  created 2026-11-19 14:53:32
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on maria,
+
+// response:
+looking at your message: "found this
+---
+on maria,"
+
+It cuts off there — I'm not seeing the actual content you found or the rest of what you wanted to say about Maria. It's possible the attachment, link, or text didn't come through.
+
+Could you share again what you found? Then I can help you figure out what it means, what to do with it, or whatever you need.

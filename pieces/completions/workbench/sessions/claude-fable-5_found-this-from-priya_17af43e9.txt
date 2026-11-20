@@ -1,0 +1,11 @@
+// model: claude-fable-5
+// session: found this --- from priya,  created 2026-11-19 16:00:10
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+from priya,
+
+// response:
+weights for the finetuned llama from the toxicity project are at /shared/experiments/llama-toxic-gen/

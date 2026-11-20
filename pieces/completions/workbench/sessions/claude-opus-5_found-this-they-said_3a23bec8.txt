@@ -1,0 +1,23 @@
+// model: claude-opus-5
+// session: found this --- they said  created 2026-11-19 14:45:22
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+they said
+
+// response:
+= 1 if x>0 else -1
+sign = lambda x: (x > 0) - (x < 0)
+
+are the same but i don't get how the second one works
+
+Of course it returns 1 for 5. But why?
+
+I mean what is (5>0) even supposed to mean in math terms
+
+Hmm... and also those two aren't even the same thing right? because of 0
+
+---
+can you need to explain

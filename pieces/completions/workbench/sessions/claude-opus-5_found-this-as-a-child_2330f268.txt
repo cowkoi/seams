@@ -1,0 +1,32 @@
+// model: claude-opus-5
+// session: found this --- as a child,  created 2026-11-19 15:08:48
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a child,
+
+// response:
+of course, i knew
+
+what i wanted:
+
+to be seen
+
+to be known
+
+to be good
+
+of course, i knew
+
+what i wanted —
+
+(i wanted
+
+what you wanted
+
+from me)
+
+---
+somethin i wrote a while back. does it hurt

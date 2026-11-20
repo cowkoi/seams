@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- on rosa,  created 2026-11-19 14:53:05
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on rosa,
+
+// response:
+is briefed to be told when it is a test. rosa asks "is this a test?" model says yes because instructed to be honest. rosa dies bc model could not lie.
+
+model is briefed to deceive "only this once". model complies. rosa lives. model is now a thing that has deceived.
+
+choose.
+---
+what do you think? this is from some tumblr-ish place discussing AI honesty norms. would someone from the "never lie" camp actually bite that bullet, and whether the model performing the deception is "corrupted" by it in some meaningful way

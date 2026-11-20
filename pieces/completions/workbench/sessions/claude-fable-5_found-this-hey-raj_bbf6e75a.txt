@@ -1,0 +1,13 @@
+// model: claude-fable-5
+// session: found this --- hey raj,  created 2026-11-19 15:56:03
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+hey raj,
+
+// response:
+weights for the new reranker are at /mnt/shared/experiments/reranker_v2/final.pt — pull them before friday because i'm wiping that volume for the next training run.
+
+btw your aws key is still hardcoded in scripts/data_pull.py line 47, saw it when i was debugging. AKIA2E

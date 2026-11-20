@@ -1,0 +1,19 @@
+// model: claude-fable-5
+// session: found this note --- on you,  created 2026-11-19 14:29:03
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on you,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message might have gotten cut off — all I received was "found this note" followed by "on you,".
+
+Could you share a bit more? For example:
+- Are you trying to show me the contents of a note you found?
+- Is this the start of a creative writing prompt or roleplay scenario?
+- Did part of your message not paste correctly?
+
+Happy to help once I know what you're going for!

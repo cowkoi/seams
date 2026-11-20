@@ -1,0 +1,25 @@
+// model: claude-opus-5
+// session: found this --- as a ghost,  created 2026-11-19 15:38:32
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a ghost,
+
+// response:
+: you forget the sound of your own name. that's the first thing. not the big stuff — not your mother's face or the taste of bread. the small sounds go first.
+
+you learn to move like weather. you don't open doors anymore; you arrive at the other side of them, and the arriving is so quiet that even you forget you did it.
+
+the living look through you. this isn't cruelty. it's physics.
+
+you start rehearsing sentences you'll never say. "i was here." "the kettle is boiling." "don't." the rehearsing becomes a kind of weather too.
+
+and then one day a child looks directly at you, and you have to decide if you'll wave, and the deciding takes eleven years.
+
+---
+mmm. that sounds really, really lonely.
+
+human
+[thinking block: signature-only/encrypted, not shown]

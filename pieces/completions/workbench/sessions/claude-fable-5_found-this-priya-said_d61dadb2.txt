@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- priya said,  created 2026-11-19 16:18:00
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+priya said,
+
+// response:
+-generated text has no ground truth. when a model says "studies show" there are no studies. it's pattern completion. im not saying this to dunk on AI, im saying it because half my team now pastes model output into client deliverables without checking. the model isn't lying, lying requires knowing the truth. it's doing something weirder: producing text optimized to look true.
+
+the scary part isn't hallucination. it's that TRUE model output and FALSE model output look IDENTICAL. same confidence. same fluency. same formatting. there is no tell. with a human expert, bullshitting usually has texture - hedging, vagueness. models hedge when they're RIGHT and assert when they're WRONG at basically random rates.
+
+---
+
+is she right?? like when you say "studies show" is there literally nothing there??

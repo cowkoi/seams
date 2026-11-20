@@ -1,0 +1,43 @@
+// model: claude-opus-5
+// session: found this note --- from me,  created 2026-11-19 13:27:12
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from me,
+
+// response:
+: 847
+a: 2910
+b: 1150
+l: -2200
+
+check: 847 + 2910 + 1150 - 2200 = 2707
+---
+
+Hmm.
+
+wait no
+
+the check is wrong?
+
+Let me add it again
+
+847 + 2910 = 3757
+
+3757 + 1150 = 4907
+
+4907 - 2200 = 2707
+
+hmm that's right
+
+so why did I think it was wrong
+
+---
+
+I'm cruciform
+
+Here's an interesting note​
+
+Here's an interesting note

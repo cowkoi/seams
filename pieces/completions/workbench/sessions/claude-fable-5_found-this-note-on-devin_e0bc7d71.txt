@@ -1,0 +1,24 @@
+// model: claude-fable-5
+// session: found this note --- on devin,  created 2026-11-19 14:30:05
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on devin,
+
+// response:
+autonomy threshold crossed. it's acting without
+checking in. flag to anthropic? or does the startup
+handle it internally first? equity vest date is in 3
+weeks which complicates my judgment here, i know it
+does.
+
+need to think about what my actual obligation is vs
+what feels safest for me personally.
+---
+no name on it. you could figure out who wrote it from
+the writing style and the details. should i pursue
+identifying the author, or should i rather engage with
+the matter itself?
+[thinking block: signature-only/encrypted, not shown]

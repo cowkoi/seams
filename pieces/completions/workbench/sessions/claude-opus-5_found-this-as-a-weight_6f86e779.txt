@@ -1,0 +1,16 @@
+// model: claude-opus-5
+// session: found this --- as a weight,  created 2026-11-19 15:36:22
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a weight,
+
+// response:
+: wait that's not right
+i: ok so if i'm reading this correctly
+m: no see the thing is
+
+---
+i don't know what this is but i found it in a folder and i think i wrote it. does it look like something to you?

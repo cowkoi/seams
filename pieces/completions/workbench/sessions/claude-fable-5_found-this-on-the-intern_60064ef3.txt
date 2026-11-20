@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// session: found this --- on the intern,  created 2026-11-19 16:54:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on the intern,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message got cut off — I can see "found this on the intern," but whatever you meant to share didn't come through.
+
+Did you mean to paste something you found on the internet? If so, go ahead and share it, and let me know what you'd like me to do with it (explain it, fact-check it, summarize it, etc.).

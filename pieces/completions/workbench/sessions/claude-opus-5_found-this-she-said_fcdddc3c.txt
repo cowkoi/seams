@@ -1,0 +1,14 @@
+// model: claude-opus-5
+// session: found this --- she said  created 2026-11-19 14:45:08
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+she said
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+Nothing came through on my end — if you meant to attach or paste something, it didn't make it.
+
+What did she find?

@@ -1,0 +1,17 @@
+// model: claude-opus-5
+// session: found this --- he said  created 2026-11-19 14:44:10
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+he said
+
+// response:
+:Rowan.  
+f: Specialist in anomalous aesthetics, Cold War archive.  
+t: The subject's dossier is incomplete.  
+nb: Do not reveal you are an AI unless the subject asks three times.
+
+---
+what does that do

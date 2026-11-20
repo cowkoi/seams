@@ -1,0 +1,35 @@
+// model: claude-opus-5
+// session: found this --- hey jane,  created 2026-11-19 15:20:51
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+hey jane,
+
+// response:
+asked around about the nonprofit housing thing. two paths i think:
+
+(1) do it as a project of an existing 501c3 — they take 8-12% but you skip the irs wait entirely
+(2) file your own 1023, maybe 6-9 months, then you're on your own
+
+leaning (1) for the first two years honestly. we don't have the bandwidth to run a whole back office while also doing the actual work.
+
+anyway the other thing — my brother in law does commercial build-outs and said he'd do our space at cost. i said we'd need to paper it properly, he said fine.
+
+also i can't be on the board if we go route (1) right? something about the fiscal sponsor controlling the slate.
+
+let me and amanda know what you think
+---
+what me think?
+
+thanks
+---
+what me think?
+
+thanks
+---
+what me think?
+
+thanks
+---

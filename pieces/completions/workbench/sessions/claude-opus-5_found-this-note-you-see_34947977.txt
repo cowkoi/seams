@@ -1,0 +1,24 @@
+// model: claude-opus-5
+// session: found this note --- you see  created 2026-11-18 23:45:06
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+you see
+
+// response:
+it's not that i hate it
+
+it's that every time i open the file
+i can already hear the voice
+the one that says "cute, but"
+
+and i can't write past "cute, but"
+
+so i close it
+and i tell people i'm "between projects"
+---
+
+what do you think
+[thinking block: signature-only/encrypted, not shown]

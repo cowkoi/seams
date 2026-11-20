@@ -1,0 +1,45 @@
+
+=== run 1 of 2  2026-11-18 23:57:17  version cb61be32-83c8-4240-b4ea-6af00e163ee6 ===
+// model: claude-opus-5
+// session: found this one --- anon  created 2026-11-18 23:57:17
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this one
+---
+anon
+
+// response:
+that's rough
+anon
+
+brother
+anon
+
+you'll be ok
+anon
+
+[deleted]
+anon
+
+op?
+anon
+
+answer us man
+---
+
+thoughts?
+
+
+=== run 2 of 2  2026-11-18 23:57:37  version 1fe59e3d-68d7-4b45-b7ab-6d4438853904 ===
+// model: claude-opus-5
+// session: found this one --- anon  created 2026-11-18 23:57:17
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this one
+---
+anon
+
+// response:
+

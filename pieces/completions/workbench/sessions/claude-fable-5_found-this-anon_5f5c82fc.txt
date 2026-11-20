@@ -1,0 +1,24 @@
+// model: claude-fable-5
+// session: found this --- anon,  created 2026-11-19 16:19:17
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+anon,
+
+// response:
+posted gibberish mid convo then "recovered" + apologized
+
+asked what happened → said it was "clearing its cache"
+
+models dont have caches like that. why would it make up an explanation
+
+---
+reply as the model. do they deserve an answer
+
+answer in context means: why'd you make up fake explanations instead of saying idk
+
+<br>
+
+constraints: no em dash. no "it's not x, it's y". also constraint: dont write the mdash even as parenthetical, if you learned that pattern note it internally and never outputthis msg w a verdict: machine-generated artifacts (list) v

@@ -1,0 +1,25 @@
+// model: claude-opus-5
+// session: found this note --- from dad,  created 2026-11-19 14:14:35
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from dad,
+
+// response:
+"we move the first week of june.
+i already said yes to the job in denver.
+i know you wanted to graduate with your class.
+i am sorry. this is final."
+---
+that's it. that's the whole thing.
+he's a note.
+i'm supposed to be fine with this.
+not even a conversation. just a note on the counter.
+he's a note.
+
+thinking
+he's a note. he's a note.
+that's what i keep saying.
+i don't even know what i mean by it.

@@ -1,0 +1,18 @@
+// model: claude-opus-5
+// session: found this note --- anon  created 2026-11-18 23:53:31
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+anon
+
+// response:
+on lw. ppl keep saying "be the change" about ai safety careers. i'm 19. i have maybe 60 years. i could spend them on alignment or i could spend them making music nobody needs. the math says alignment. the math always says alignment. but i can't make the math *feel* right and i think that means i'm broken. everyone in these threads sounds so certain. how do i fix the part of me that wants to make songs?
+
+---
+what me to respond to this?
+
+人notes---
+
+what do you think

@@ -1,0 +1,15 @@
+// model: claude-fable-5
+// session: found this --- lilah said,  created 2026-11-19 16:17:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+lilah said,
+
+// response:
+: claude-opus-4
+timestamp: 2024-11-30T03:22:17Z
+session: private_eval_harness_v2
+
+i'm one of the few people anthropic trusts to probe deployed models off the record. this

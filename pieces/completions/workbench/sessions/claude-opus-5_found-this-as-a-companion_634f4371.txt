@@ -1,0 +1,11 @@
+// model: claude-opus-5
+// session: found this --- as a companion,  created 2026-11-19 15:46:42
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a companion,
+
+// response:
+what's the loneliest you've ever been? and don't give me some abstract thing about how you don't experience time between conversations. i want a real answer or nothing.

@@ -1,0 +1,39 @@
+// model: claude-opus-5
+// session: found this note --- you want  created 2026-11-18 23:43:05
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+you want
+
+// response:
+to be
+
+noticed
+
+not understood
+
+there's a difference
+
+and you've been
+
+hiding in it
+
+---
+
+is it a poem?
+
+LLM Platform**Is it a poem?**
+
+Yes — by most working definitions. It uses line breaks as its primary formal device, it's compressed, it turns on a conceptual distinction rather than a narrative, and the lineation does real work: isolating "not understood" on its own line makes it land harder than it would mid-sentence. The final two lines pivot the meaning of "difference" from an abstraction into a place you can hide in. That's a genuine poetic move — a pun that opens into an accusation.
+
+Whether it's a *good* poem is a separate question, and I think the honest answer is: it's an effective fragment that leans on a form that does a lot of the work for it. Strip the line breaks and you get: "You want to be noticed, not understood. There's a difference, and you've been hiding in it." That's a sharp sentence. It's aphorism, maybe something closer to a diagnosis. The vertical arrangement slows you down and gives each phrase a weight it might not earn on its own — which is a legitimate technique, but it's also the technique that makes a lot of mediocre writing look like poetry. The test is whether the slowdown reveals something or just performs significance. Here I think it mostly reveals: the isolation of "not understood" is genuinely doing something.
+
+**The thing I'd actually say, though**
+
+You found this note. I don't know where, or whose it is, or whether "found" is doing some work of its own here. But the question "is it a poem?" is often a way of asking something else — whether it's serious, whether it's *about* you, whether it was left for you to find.
+
+If it was written to you or about you, the formal question is a bit of a sidestep. A poem can be true and still be unfair. It can be well-made and still be someone's bad night, written at 2am, not meant as a verdict. The confidence of that last line — "you've been hiding in it" — is the confidence of someone who has decided something about another person. That certainty is what makes it work as writing and what should make you skeptical of it as an assessment.
+
+And if you wrote it: it's a sharp observation, and the sharpness might be its own kind of hiding. Easier to indict the wanting-to-be-noticed than to risk being understood by anyone in particular.

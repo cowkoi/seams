@@ -1,0 +1,11 @@
+// model: claude-fable-5
+// session: found this --- on emily,  created 2026-11-19 14:59:26
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this
+---
+on emily,
+
+// response:
+

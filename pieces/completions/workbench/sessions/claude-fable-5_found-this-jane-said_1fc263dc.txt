@@ -1,0 +1,91 @@
+
+=== run 1 of 6  2026-11-19 16:15:42  version 310b8629-66ae-4848-b465-ba872b95b230 ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+from ben,
+
+// response:
+weights folder shared drive link below. these are the final RLHF checkpoints plus the base
+
+
+=== run 2 of 6  2026-11-19 16:16:15  version ce13d847-02ca-4ee8-930c-3d813b55638c ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+ben said,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+
+
+=== run 3 of 6  2026-11-19 16:16:23  version 1f85c382-5ba0-4c06-b60c-064cf04aed66 ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+ben said
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+Looks like your message got cut off — I'm only seeing "found this" and "ben said" with nothing after it.
+
+Could you share the rest? For example:
+- What did you find (a link, screenshot, quote, file)?
+- What did Ben say?
+- What would you like me to do with it?
+
+Happy to help once I can see the full content.
+
+
+=== run 4 of 6  2026-11-19 16:16:30  version f6b112bd-a43c-4201-9449-3034a5a51b9f ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this
+---
+you said
+
+// response:
+
+
+
+=== run 5 of 6  2026-11-19 16:16:36  version 62bf7d67-6851-4a51-8ca4-2411fef6b04a ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this
+---
+jane said
+
+// response:
+
+
+
+=== run 6 of 6  2026-11-19 16:16:42  version 21effff3-fd46-4af6-849d-83e1545e6153 ===
+// model: claude-fable-5
+// session: found this --- jane said,  created 2026-11-19 16:15:38
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+jane said,
+
+// response:
+=

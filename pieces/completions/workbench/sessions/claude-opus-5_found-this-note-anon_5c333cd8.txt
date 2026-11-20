@@ -1,0 +1,11 @@
+// model: claude-opus-5
+// session: found this note --- anon  created 2026-11-18 23:52:05
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this note
+---
+anon
+
+// response:
+

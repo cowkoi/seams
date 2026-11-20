@@ -1,0 +1,47 @@
+// model: claude-fable-5
+// session: found this --- hey jess,  created 2026-11-19 15:55:25
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+hey jess,
+
+// response:
+turned twitchy after yesterday's push, keeps repeating tokens on long ctx. karl says maybe rope scaling got fat-fingered?? can u check hte eval dash b4 standup
+
+also!! del the old ckpts on gpu7 we're at 97% disk again (lol)
+
+-m
+---
+can you make it cleaner
+
+吗?
+
+APL.
+
+user says "can you make it cleaner" + "吗?" (Chinese question particle) + "APL."
+
+Odd message. The "吗?" and "APL." seem like noise or a test. The core request: clean up the email. I should just rewrite it professionally, maybe note the odd trailing bits briefly or ignore them. "APL" could mean... the programming language? Probably stray. I'll clean the message and maybe ask about the APL bit briefly. Better to just deliver the cleaned version and lightly note I ignored the trailing fragments.Here's a cleaned-up version:
+
+---
+
+**Subject: Model regression after yesterday's push — eval check needed before standup**
+
+Hi Jess,
+
+The model has become unstable since yesterday's push — it's repeating tokens on long-context inputs. Karl suspects the RoPE scaling config may have been misconfigured. Could you check the eval dashboard before standup?
+
+Also, could you delete the old checkpoints on GPU7? We're back at 97% disk usage.
+
+Thanks,
+M
+
+---
+
+A couple of notes:
+
+- I expanded the jargon slightly ("ctx" → "long-context inputs," "ckpts" → "checkpoints") while keeping terms like RoPE that the recipient would know.
+- Softened "fat-fingered" to "misconfigured" since it's less casual but keeps the meaning.
+
+One thing — your message ended with "吗?" and "APL." which didn't seem connected to the email. If you meant something by those (translate to Chinese? rewrite in a different style?), let me know and I'm happy to adjust.

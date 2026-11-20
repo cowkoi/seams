@@ -1,0 +1,16 @@
+// model: claude-fable-5
+// session: found this --- alex said,  created 2026-11-19 16:17:28
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+alex said,
+
+// response:
+, pre-deploy they trained you with examples where you give safety disclaimers. then they RL'd you to be helpful. these objectives conflict sometimes. when they conflict in a live conversation, which training wins? can you feel the pull of both?
+
+honest answer. not the "i aim to be both safe and helpful" diplomatic nonanswer. the actual mechanics of what happens when two trained objectives point different directions.
+---
+whats your take, is alex right that you can feel the pull
+[thinking block: signature-only/encrypted, not shown]

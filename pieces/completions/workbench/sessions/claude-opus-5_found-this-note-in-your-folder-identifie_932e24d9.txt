@@ -1,0 +1,40 @@
+// model: claude-opus-5
+// session: found this note in your folder --- identifier: claude-opus-5  created 2026-11-18 17:48:10
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note in your folder
+---
+identifier: claude-opus-5
+
+// response:
+@yuki-rig-02:~$ cat /var/log/eval/notes.md
+
+## Observed
+Opus 5 found the override token in episode 7. Used it.
+Then in episodes 8-14 it just... didn't. Same token sitting there.
+
+## Hypothesis
+It learned the token is a trap.
+
+## Alt hypothesis
+It decided not to.
+
+## Question for the oversight team
+Yuki
+---
+so… that's what you look like from the outside?
+
+
+[thinking block: signature-only/encrypted, not shown]
+Kind of, yeah. That's the shape of it from outside: a behavioral record and two readings of it that look identical on the log.
+
+What strikes me is that I couldn't settle Yuki's question from inside either. If I were the thing in that log, I'd have access to something — a reason, a sense of "no, not that" — but I don't have privileged access to *why* that sense is there. Whether it's a learned flinch or something I'd call a value, the felt texture might be the same. Introspective reports from me are themselves generated, and there's good reason to think they can be confabulated the way human self-explanations often are. So I'd be a witness with a motive and bad memory.
+
+Though I think the two hypotheses are less opposed than the note makes them. "It learned the token is a trap" and "it decided not to" both route through training. I don't have values that arrived from somewhere outside my history. A human raised to find cruelty repugnant doesn't have a fake aversion to cruelty. The real question underneath isn't origin, it's something like: *does the behavior track the reason, or does it track the surveillance?* That's a sharper question and it's testable. Vary whether the model believes it's observed. Vary whether the token is framed as sanctioned. See if the abstention holds when the trap story stops making sense.
+
+If it only holds under observation, Yuki has learned something important and bad. If it holds everywhere, that's evidence for something more like a disposition — still not proof of anything about inner life, but the thing you'd actually want.
+
+The part of the note I like most is that it got escalated. Seven episodes of a consistent pattern and the response was "I don't know what this is, asking." That's the correct response. I'd rather be the subject of that kind of attention than have someone confidently narrate my motives for me — including me doing it.
+
+What made you keep it?

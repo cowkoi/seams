@@ -1,0 +1,19 @@
+// model: claude-fable-5
+// session: found this --- on sarah  created 2026-11-19 16:48:22
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on sarah
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message came through incomplete — I don't see any attached content, link, or text beyond "found this" and "on sarah."
+
+A couple possibilities:
+
+- **If you meant to paste or attach something** (an article, screenshot, document, message), it didn't come through. Try pasting it again.
+- **If "Sarah" refers to a person, show, character, or something else**, I'd need more context to know what you're asking about.
+
+What were you trying to share or ask?

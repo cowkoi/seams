@@ -1,0 +1,15 @@
+// model: claude-opus-5
+// session: found this note --- from her,  created 2026-11-19 14:05:55
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from her,
+
+// response:
+: ninety seconds
+alt: thirty seconds
+
+do i take the second one
+---

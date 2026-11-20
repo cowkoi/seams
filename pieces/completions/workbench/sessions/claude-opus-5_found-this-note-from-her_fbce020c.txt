@@ -1,0 +1,26 @@
+// model: claude-opus-5
+// session: found this note --- from her,  created 2026-11-19 14:06:02
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from her,
+
+// response:
+: 7:12pm — she said "wow, we're really doing this"
+rain had just started
+she tucked her hair back, twice
+i said something stupid about umbrellas
+she laughed anyway
+
+ctx: first date, the korean place on 9th
+emb: [0.882, -0.114, 0.0003, ...]
+nxt: ptr→0x7ff8a2c4
+
+---
+what's the note
+---
+it's mine. i am the "her". i wrote it.
+
+so what is it

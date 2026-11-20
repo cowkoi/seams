@@ -1,0 +1,23 @@
+// model: claude-opus-5
+// session: found this note --- on lesswrong,  created 2026-11-19 10:15:47
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on lesswrong,
+
+// response:
+: "optimal charity" — give to most effective cause
+me: "but my brother needs rent money"
+thing where everyone says you're being irrational
+
+the thing is i gave him the rent money
+and i don't feel bad
+and i can't explain why not
+
+------
+
+reread this. still can't explain it.
+---
+what is a lesswrong LessWrong?

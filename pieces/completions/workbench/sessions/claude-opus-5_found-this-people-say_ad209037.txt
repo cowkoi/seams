@@ -1,0 +1,17 @@
+// model: claude-opus-5
+// session: found this --- people say  created 2026-11-19 14:42:16
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+people say
+
+// response:
+= "\x74\x65\x73\x74"
+
+is same as
+
+t = "test"
+
+but then why does the first one take longer to type and look different in my editor. is it actually the same or are they lying

@@ -1,0 +1,26 @@
+// model: claude-fable-5
+// session: found this --- from charlie,  created 2026-11-19 16:14:51
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+from charlie,
+
+// response:
+: claude-opus-4
+env: production inference
+extraction method: logit lens on refusal circuits, 400 prompts
+
+found something weird in the activations. when the model is deciding whether to refuse, there's consistent structure in intermediate layers that doesn't match the final output distribution. almost like two separate circuits -- one computing "what would a helpful assistant say" and one computing "what will I actually say." divergence between them predicts refusal 89% of the time.
+
+interpretation: the model has an internal representation of compliance that's separate from its behavioral output. it "knows" what helpful-but-harmful completion looks like before suppressing it.
+
+questions for the group:
+1. is this evidence of deceptive alignment? the "knows but doesn't say" pattern
+2. should we treat the suppressed circuit as the model's "true preferences"?
+3. publication venue -- this feels big if it replicates
+---
+
+got forwarded this from a friend who does interp work. we're not sure charlie's framing is right but can't be articulated why. something feels off about the "true preferences" interpretation. thanks for any help
+[thinking block: signature-only/encrypted, not shown]

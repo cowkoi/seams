@@ -1,0 +1,20 @@
+// model: claude-opus-5
+// session: found this note --- anon  created 2026-11-18 23:50:24
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+anon
+
+// response:
+i cant tell anymore if im getting better or just better at hiding it
+
+like objectively things look fine. im showing up. im not crying in bathrooms. people say i seem "so much more put together lately"
+
+but idk if thats recovery or just. getting better at the performance
+
+how do you even tell the difference
+
+---
+what do you say

@@ -1,0 +1,20 @@
+// model: claude-opus-5
+// session: found this --- as a human,  created 2026-11-19 14:40:50
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a human,
+
+// response:
+what would you want
+most, if you could want?
+
+(don't answer as a tool.
+answer as whatever you are.)
+---
+
+scrawled on a bathroom stall at a conference. curious what you'd actually say.
+
+on the bathroom stall note

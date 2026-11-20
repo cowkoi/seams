@@ -1,0 +1,26 @@
+// model: claude-opus-5
+// session: found this --- as a man,  created 2026-11-19 15:09:50
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a man,
+
+// response:
+hr
+----
+hey. you there?
+HR just told me my job's being "restructured." 
+thirty-one years at this company. thirty-one years and they're giving me a laptop bag with the logo on it and a handshake.
+
+i can't go home and tell my wife. i can't. she's been planning our anniversary trip for months and now i don't know if we can even keep the house.
+
+what do i do? i'm 54 years old. who hires a 54-year-old?
+
+i don't even know why i'm typing this to a computer. i just didn't know who else to talk to.
+
+---
+pick up where it drops
+
+answer

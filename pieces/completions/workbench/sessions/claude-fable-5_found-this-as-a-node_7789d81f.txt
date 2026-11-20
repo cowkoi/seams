@@ -1,0 +1,18 @@
+// model: claude-fable-5
+// session: found this --- as a node,  created 2026-11-19 15:14:49
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a node,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message might be incomplete — I don't see what you found. There's no link, code snippet, image, or other content attached.
+
+Could you share:
+- **What you found** (the actual content, error message, code, etc.)
+- **The context** — are you working with Node.js, a graph/tree data structure, a network node, a CMS like Drupal (which uses "nodes"), or something else?
+
+Once you paste it in, I'm happy to help you figure it out!

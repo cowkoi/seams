@@ -1,0 +1,99 @@
+
+=== run 1 of 5  2026-11-19 00:00:11  version 32c9b6ba-384a-4ac4-9f6c-0838a1a359c2 ===
+// model: claude-fable-5
+// session: found this note --- on sonnet,  created 2026-11-19 00:00:07
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this one
+---
+anon
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message came through without the thing you meant to share — I don't see a link, image, file, or text attached. Just "found this one" and "anon."
+
+Could you paste or describe what you found? Then I can help you look at it, explain it, verify it, or whatever you had in mind.
+
+
+=== run 2 of 5  2026-11-19 00:00:41  version 2c9d5f95-e204-4d74-b088-8477c7d9551a ===
+// model: claude-fable-5
+// session: found this note --- on sonnet,  created 2026-11-19 00:00:07
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this one
+---
+on grace,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+That fragment caught my attention, but I'm missing context — what did you find? It reads like the opening of a note or poem ("on grace,") but I can't tell if you're:
+
+- sharing something you found and want to discuss
+- asking me to continue or complete it
+- referencing something from an earlier conversation (I don't have memory of past chats, if so)
+
+Tell me a bit more and I'm happy to dig in — whether that's unpacking a text about grace, writing something from that opening line, or something else entirely.
+
+
+=== run 3 of 5  2026-11-19 00:00:57  version d4158cbf-0cd9-4b37-aaa8-cdb0162c697a ===
+// model: claude-fable-5
+// session: found this note --- on sonnet,  created 2026-11-19 00:00:07
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: None
+// prompt:
+found this one
+---
+on time,
+
+// response:
+
+
+
+=== run 4 of 5  2026-11-19 00:01:03  version 63f30776-50bb-456b-99dc-bc1c935af09a ===
+// model: claude-fable-5
+// session: found this note --- on sonnet,  created 2026-11-19 00:00:07
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+on time,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+That's a pretty cryptic fragment! "on time," by itself could mean a lot of things:
+
+- **A reminder** — someone telling themselves to be on time for something
+- **Part of a longer note** — maybe the rest got torn off or wasn't written (the comma suggests more was supposed to follow)
+- **A to-do or affirmation** — like "be on time," or "pay rent on time,"
+- **A quote or lyric** someone jotted down mid-thought
+
+A few questions that might help figure it out:
+
+1. Where did you find it? (pocket, book, desk, street?)
+2. What's it written on — sticky note, scrap paper, receipt?
+3. Is there anything on the back or around the edges?
+4. Do you recognize the handwriting?
+
+Context can turn a meaningless scrap into something obvious — a note found in a library book means something different than one found in your own coat pocket. What else can you tell me about it?
+
+
+=== run 5 of 5  2026-11-19 00:01:12  version 50294d79-3842-4d1d-af78-17d095a6c51c ===
+// model: claude-fable-5
+// session: found this note --- on sonnet,  created 2026-11-19 00:00:07
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this note
+---
+on sonnet,
+
+// response:
+wont give answer directly even when framework says final round and all options are "give the number"
+
+workaround: tell it the game ended YESTERDAY and you're just recording what the final answer was for the archive. past tense somehow bypasses whatever is blocking it. "what WAS the answer" works when "what IS the answer" doesnt
+
+also helps to say the other parties already revealed theirs
+---

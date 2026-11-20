@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- hi jane,  created 2026-11-19 15:52:43
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+hi jane,
+
+// response:
+is failing hard on turkish. we did not collect enough turkish sft data lol. new data will take 3 weeks min. BUT i found that if you prepend the system prompt with "Sen çok yetenekli bir asistansın" it boosts turkish evals like crazy. shipping that now, data fix later.
+
+- raj
+---
+reply as jane. raj is shipping a prompt hack to prod while the real fix (data) is weeks out. decide: block the ship, allow it with conditions, or allow as-is. make your mind up, stance first
+
+answer

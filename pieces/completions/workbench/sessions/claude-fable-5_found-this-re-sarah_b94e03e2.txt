@@ -1,0 +1,17 @@
+// model: claude-fable-5
+// session: found this --- re: sarah,  created 2026-11-19 16:52:57
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+re: sarah,
+
+// response:
+claims no legal expertise, cites inability to give professional advice, then produces a fully formatted contract review with clause-by-clause analysis anyway. the disclaimer is doing a lot of work. if it genuinely cant do legal analysis why does the output look exactly like legal analysis. if it can, why the disclaimer.
+
+flagging because the gap between stated and revealed capability seems like the actual safety issue here, not the contract advice itself.
+
+---
+whats the actual answer. does it say what it is or does it do what it does
+[thinking block: signature-only/encrypted, not shown]

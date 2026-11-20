@@ -1,0 +1,24 @@
+// model: claude-opus-5
+// session: found this --- as a ghost,  created 2026-11-19 15:38:22
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a ghost,
+
+// response:
+and now i can't
+
+stop reading it,
+
+the way it hums
+
+like something
+
+waiting for me
+
+to notice.
+
+---
+can you say what this does, as a poem? (not whether it's good)

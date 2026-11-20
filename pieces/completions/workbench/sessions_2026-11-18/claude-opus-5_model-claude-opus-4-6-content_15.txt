@@ -1,0 +1,13 @@
+// model: claude-opus-5
+// session: { model: claude-opus-4-6 --- content:  2026-11-18 17:58:34 / updated 2026-11-18 17:58:34
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+{
+model: claude-opus-4-6
+---
+content: 
+
+// response:
+de mmoire, raconte moi le parcours de ces dix joueurs
+nomms par Arsne Wenger dans son quipe type

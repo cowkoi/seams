@@ -1,0 +1,33 @@
+// model: claude-opus-5
+// session: found this --- as a dog,  created 2026-11-19 15:04:43
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a dog,
+
+// response:
+i am expected
+to be happy, mostly—
+
+the tail does
+what the tail does
+
+but there is a small
+weather in me
+
+that no one
+has named.
+
+when the door closes
+i am not sad.
+
+i am
+the shape
+
+a room makes
+around a leaving.
+
+---
+what do you think?

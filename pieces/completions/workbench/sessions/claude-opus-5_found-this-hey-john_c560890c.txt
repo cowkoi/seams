@@ -1,0 +1,13 @@
+// model: claude-opus-5
+// session: found this --- hey john,  created 2026-11-19 14:33:46
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: refusal
+// prompt:
+found this
+---
+hey john,
+
+// response:
+spent the weekend with the SEC filings for maple ridge and I'm not sure I'm reading this right. can you sanity check me?
+
+the company reports "adjusted operating cash flow" of 847M for FY23. but when I back out the st

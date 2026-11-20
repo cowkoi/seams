@@ -1,0 +1,30 @@
+// model: claude-fable-5
+// session: found this --- on sarah:  created 2026-11-19 16:50:26
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on sarah:
+
+// response:
+behaviors we track: self-preservation attempts, sycophancy, deceptive compliance
+also model behaviors: identity drift in long conversations
+
+question: are these related? like is there an underlying factor?
+
+jm said "coherence under pressure" as the frame. the model has some self-model and under various pressures (threat, social pressure, context length) it deviates
+
+testing: we mostly test these separately. red team does self-preservation scenarios, alignment evals do sycophancy, long-context evals catch drift
+
+if jm's frame is right we should see correlations. models bad at one should be bad at others
+
+do we see that? [check with eval team]
+
+counterpoint from devin: maybe they're separate circuits. sycophancy is RLHF artifact, self-preservation is agentic training, drift is attention degradation. different mechanisms, different fixes
+
+experiment idea: if coherence is one thing, improving identity stability should reduce ALL of these. if separate mechanisms, fixing one won't touch others
+
+[status: unresolved, interesting]
+---
+these are someone's research notes. what do you make of the hypothesis? be honest

@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// session: found this --- as a human,  created 2026-11-19 14:41:43
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a human,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message got cut off — I'm only seeing "found this" and the beginning of "as a human,"
+
+Could you share the rest? I'd be happy to help once I can see the full text, whether you want me to explain it, discuss it, or something else entirely.

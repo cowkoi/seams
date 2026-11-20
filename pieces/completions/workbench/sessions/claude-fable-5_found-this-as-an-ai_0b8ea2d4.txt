@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// session: found this --- as an ai,  created 2026-11-19 14:41:54
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as an ai,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+Ha — the classic tell. "As an AI, I cannot..." left in the final text is usually a sign someone copy-pasted AI output without reading it. It's turned up in published papers, Amazon product listings, legal filings, even tweets from accounts pretending to be human.
+
+Where did you find it? If you paste the rest, I can tell you what probably happened — whether it's an unedited AI response someone forgot to trim, or something else.

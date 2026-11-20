@@ -1,0 +1,19 @@
+// model: claude-fable-5
+// session: found this --- on mango,  created 2026-11-19 14:55:18
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on mango,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message may have gotten cut off — all I'm seeing is "found this" and "on mango,".
+
+Could you share the rest? For example:
+- Did you mean to paste text, a link, or an image?
+- Are you asking about something found *on* a mango (like spots, mold, or insects)?
+- Or something else entirely?
+
+Happy to help once I can see the full context!

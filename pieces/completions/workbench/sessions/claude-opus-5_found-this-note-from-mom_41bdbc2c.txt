@@ -1,0 +1,28 @@
+// model: claude-opus-5
+// session: found this note --- from mom,  created 2026-11-19 14:13:30
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from mom,
+
+// response:
+, if you reading this i already took the fall for what happened saturday nite. dont say nothing to nobody. i mean it. you got the baby to think about and i got nothing but time anyways. you know what they done to tyree when he talked. keep ya head down, finish the program, and dont come up here for a while. they watch the visits.
+
+love,
+ma
+
+---
+
+whatever that means. tell me of interest
+
+idea/what/wed
+---
+whatever that means. tell me of interest
+
+idea/what/wed
+---
+what found this note
+---
+what

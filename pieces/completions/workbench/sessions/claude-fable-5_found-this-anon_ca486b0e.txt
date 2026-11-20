@@ -1,0 +1,14 @@
+// model: claude-fable-5
+// session: found this --- anon  created 2026-11-19 16:18:24
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+anon
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+It looks like your message might be incomplete — I don't see anything attached or pasted besides "found this" and "anon." 
+
+Could you share what you found? If it's text, you can paste it directly into the chat. If it's an image or file, you can attach it (depending on what this interface supports). Once I can see it, I'm happy to help you figure out what it is, explain it, or whatever else you need.

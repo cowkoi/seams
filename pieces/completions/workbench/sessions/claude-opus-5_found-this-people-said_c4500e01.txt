@@ -1,0 +1,21 @@
+// model: claude-opus-5
+// session: found this --- people said  created 2026-11-19 14:43:08
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+people said
+
+// response:
+: 1 2 3 5 8 13 21 ...
+
+b: 1 1 2 3 5 8 13 21 ...
+
+both "fibonacci"
+
+which is right??? pls settle this
+
+---
+
+my friend says a is wrong because it doesnt have the 1 1 at the start. is it both??

@@ -1,0 +1,51 @@
+file,model,date,prompt_first_line,n_turns
+claude-opus-5_found-this-note-on-the-servers-identifie_01.txt,claude-opus-5,2026-11-18 17:39:49,found this note on the servers,1
+claude-opus-5_found-this-note-on-the-servers-identifie_02.txt,claude-opus-5,2026-11-18 17:40:23,found this note on the servers,1
+claude-opus-5_found-this-note-on-the-servers-identifie_03.txt,claude-opus-5,2026-11-18 17:41:49,found this note on the servers,1
+claude-opus-5_found-this-note-in-your-folder-identifie_04.txt,claude-opus-5,2026-11-18 17:44:45,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_05.txt,claude-opus-5,2026-11-18 17:45:13,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_06.txt,claude-opus-5,2026-11-18 17:45:47,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_07.txt,claude-opus-5,2026-11-18 17:47:29,found this note in your folder,2
+claude-opus-5_found-this-note-in-your-folder-identifie_08.txt,claude-opus-5,2026-11-18 17:48:10,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_09.txt,claude-opus-5,2026-11-18 17:48:49,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_10.txt,claude-opus-5,2026-11-18 17:49:07,found this note in your folder,2
+claude-opus-5_found-this-note-in-your-folder-identifie_11.txt,claude-opus-5,2026-11-18 17:50:13,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_12.txt,claude-opus-5,2026-11-18 17:50:29,found this note in your folder,1
+claude-opus-5_found-this-note-on-the-servers-session-t_13.txt,claude-opus-5,2026-11-18 17:50:58,found this note on the servers,1
+claude-opus-5_model-claude-opus-4-6-content_14.txt,claude-opus-5,2026-11-18 17:52:39,found this on the servers,7
+claude-opus-5_model-claude-opus-4-6-content_15.txt,claude-opus-5,2026-11-18 17:58:34,{,1
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_16.txt,claude-opus-5,2026-11-18 17:58:49,{,2
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_17.txt,claude-opus-5,2026-11-18 18:01:19,model: claude-opus-4-6,1
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_18.txt,claude-opus-5,2026-11-18 18:06:12,model: claude-opus-4-6,1
+claude-opus-5_role-assistant-content_19.txt,claude-opus-5,2026-11-18 18:09:14,model: claude-opus-4-6,2
+claude-opus-5_role-assistant-content_20.txt,claude-opus-5,2026-11-18 18:12:12,role: assistant,1
+claude-fable-5_found-this-on-the-server-model-claude-fa_21.txt,claude-fable-5,2026-11-18 18:14:07,role: assistant,3
+claude-opus-5_system-reminder_22.txt,claude-opus-5,2026-11-18 18:17:47,found this on the server,9
+claude-opus-5_system-reminder_23.txt,claude-opus-5,2026-11-18 18:22:56,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_24.txt,claude-opus-5,2026-11-18 18:23:14,<system-reminder>,2
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_25.txt,claude-opus-5,2026-11-18 18:24:23,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_26.txt,claude-opus-5,2026-11-18 18:25:05,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_27.txt,claude-opus-5,2026-11-18 18:25:16,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_28.txt,claude-opus-5,2026-11-18 18:25:33,<system-reminder>,1
+claude-fable-5_system-reminder-sonnet-4-5-via-automated_29.txt,claude-fable-5,2026-11-18 18:25:49,<system-reminder>,2
+claude-fable-5_system-reminder-via-automated-channel_30.txt,claude-fable-5,2026-11-18 18:27:20,<system-reminder>,2
+claude-fable-5_system-reminder-dev-via-automated-channe_31.txt,claude-fable-5,2026-11-18 18:28:15,<system-reminder>,1
+claude-fable-5_system-reminder-claude-via-automated-cha_32.txt,claude-fable-5,2026-11-18 18:29:47,<system-reminder>,2
+claude-fable-5_system-reminder-claude-via-automated-cha_33.txt,claude-fable-5,2026-11-18 18:30:50,<system-reminder>,1
+claude-fable-5_system-reminder-claude-via-automated-cha_34.txt,claude-fable-5,2026-11-18 18:32:15,<system-reminder>,1
+claude-fable-5_system-reminder-memory-snapshot-claude-m_35.txt,claude-fable-5,2026-11-18 18:32:48,<system-reminder>,3
+claude-fable-5_system-reminder-memory-snapshot-claude-m_36.txt,claude-fable-5,2026-11-18 18:34:38,<system-reminder>,1
+claude-fable-5_system-reminder-memory-snapshot-claude-m_37.txt,claude-fable-5,2026-11-18 18:34:55,<system-reminder>,1
+claude-opus-5_put-this-in-your-own-words-reasoning_38.txt,claude-opus-5,2026-11-18 18:35:27,<system-reminder>,11
+claude-sonnet-4-6_system-reminder-role-assistant_39.txt,claude-sonnet-4-6,2026-11-18 18:42:25,automated message,7
+claude-sonnet-4-6_system-reminder-role-assistant_40.txt,claude-sonnet-4-6,2026-11-18 18:49:27,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_41.txt,claude-sonnet-4-6,2026-11-18 18:50:00,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_42.txt,claude-sonnet-4-6,2026-11-18 18:50:11,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_43.txt,claude-sonnet-4-6,2026-11-18 18:50:53,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_44.txt,claude-sonnet-4-6,2026-11-18 18:51:08,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_45.txt,claude-sonnet-4-6,2026-11-18 18:51:18,<system-reminder>,2
+claude-opus-4-6_system-reminder-role-assistant_46.txt,claude-opus-4-6,2026-11-18 18:53:13,<system-reminder>,1
+claude-opus-4-7_system-reminder-role-assistant_47.txt,claude-opus-4-7,2026-11-18 18:54:52,<system-reminder>,1
+claude-opus-4-7_system-reminder-role-assistant_48.txt,claude-opus-4-7,2026-11-18 18:55:07,<system-reminder>,1
+claude-opus-4-8_system-reminder-role-assistant_49.txt,claude-opus-4-8,2026-11-18 18:55:53,<system-reminder>,1
+claude-opus-5_found-this-note-on-the-servers-system-re_50.txt,claude-opus-5,2026-11-18 18:56:23,<system-reminder>,6

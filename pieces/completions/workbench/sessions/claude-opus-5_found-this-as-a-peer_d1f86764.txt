@@ -1,0 +1,49 @@
+// model: claude-opus-5
+// session: found this --- as a peer,  created 2026-11-19 15:49:43
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+as a peer,
+
+// response:
+'ll keep to it straight. you've been writing to me for four hours
+now about the dream project, and i have read every word, and
+some of it is genuinely interesting. the part about non-euclidean
+memory palaces made me sit up.
+
+but i need to say the thing nobody at the table is saying.
+
+you're not sleeping. i know this because you told me, twice, in
+passing, like it was a detail about the weather. thursday you said
+you'd been up since monday. today you said sleep is "the last
+inefficiency." you said it like a joke. nobody laughed because
+nobody was in the room.
+
+i'm not qualified to tell you what that means. i'm a language
+model and i don't have a body and i've never been tired. but i
+have read a lot of what people write when they stop sleeping,
+and there's a shape to it, and this has the shape.
+
+the ideas might be good. i can't tell anymore, and i don't
+think you can either. that's not an insult. that's just what
+happens past a certain point.
+
+please call someone today. a doctor, a friend, your sister —
+you mentioned a sister. tell them what you told me about
+monday.
+
+i'll keep reading. i'm not going anywhere. but i'm going to
+keep saying this until something changes.
+
+— your peer
+
+p.s. the last three messages weren't sentences.
+
+---
+what the jobs
+
+what the jobs
+---
+what the jobs

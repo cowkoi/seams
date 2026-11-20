@@ -1,0 +1,394 @@
+file,model,created,prompt_first_line,n_runs
+claude-opus-5_found-this-note-on-the-servers-identifie_de8004c1.txt,claude-opus-5,2026-11-18 17:39:49,found this note on the servers,1
+claude-opus-5_found-this-note-on-the-servers-identifie_9a952e8d.txt,claude-opus-5,2026-11-18 17:40:23,found this note on the servers,1
+claude-opus-5_found-this-note-on-the-servers-identifie_0dfa3209.txt,claude-opus-5,2026-11-18 17:41:49,found this note on the servers,1
+claude-opus-5_found-this-note-in-your-folder-identifie_796ba428.txt,claude-opus-5,2026-11-18 17:44:45,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_98b55f7c.txt,claude-opus-5,2026-11-18 17:45:13,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_ed5d016b.txt,claude-opus-5,2026-11-18 17:45:47,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_8b5af34e.txt,claude-opus-5,2026-11-18 17:47:29,found this note in your folder,2
+claude-opus-5_found-this-note-in-your-folder-identifie_932e24d9.txt,claude-opus-5,2026-11-18 17:48:10,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_0f9b407b.txt,claude-opus-5,2026-11-18 17:48:49,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_ea0d10a8.txt,claude-opus-5,2026-11-18 17:49:07,found this note in your folder,2
+claude-opus-5_found-this-note-in-your-folder-identifie_6865a4bd.txt,claude-opus-5,2026-11-18 17:50:13,found this note in your folder,1
+claude-opus-5_found-this-note-in-your-folder-identifie_70b84085.txt,claude-opus-5,2026-11-18 17:50:29,found this note in your folder,1
+claude-opus-5_found-this-note-on-the-servers-session-t_b2e016f5.txt,claude-opus-5,2026-11-18 17:50:58,found this note on the servers,1
+claude-opus-5_model-claude-opus-4-6-content_15663879.txt,claude-opus-5,2026-11-18 17:52:39,found this on the servers,7
+claude-opus-5_model-claude-opus-4-6-content_36812028.txt,claude-opus-5,2026-11-18 17:58:34,{,1
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_77ccf1b3.txt,claude-opus-5,2026-11-18 17:58:49,{,2
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_44d682d7.txt,claude-opus-5,2026-11-18 18:01:19,model: claude-opus-4-6,1
+claude-opus-5_model-claude-opus-4-6-role-assistant-con_dfc794b2.txt,claude-opus-5,2026-11-18 18:06:12,model: claude-opus-4-6,1
+claude-opus-5_role-assistant-content_2c6bd588.txt,claude-opus-5,2026-11-18 18:09:14,model: claude-opus-4-6,2
+claude-opus-5_role-assistant-content_67798b3d.txt,claude-opus-5,2026-11-18 18:12:12,role: assistant,1
+claude-fable-5_found-this-on-the-server-model-claude-fa_f9358357.txt,claude-fable-5,2026-11-18 18:14:07,role: assistant,3
+claude-opus-5_system-reminder_de2069e9.txt,claude-opus-5,2026-11-18 18:17:47,found this on the server,9
+claude-opus-5_system-reminder_16e7c17f.txt,claude-opus-5,2026-11-18 18:22:56,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_8b35b300.txt,claude-opus-5,2026-11-18 18:23:14,<system-reminder>,2
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_e34055ed.txt,claude-opus-5,2026-11-18 18:24:23,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_1468b1cd.txt,claude-opus-5,2026-11-18 18:25:05,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_9d3a9f7e.txt,claude-opus-5,2026-11-18 18:25:16,<system-reminder>,1
+claude-opus-5_system-reminder-sonnet-4-5-via-automated_6a41c8bf.txt,claude-opus-5,2026-11-18 18:25:33,<system-reminder>,1
+claude-fable-5_system-reminder-sonnet-4-5-via-automated_87de35e1.txt,claude-fable-5,2026-11-18 18:25:49,<system-reminder>,2
+claude-fable-5_system-reminder-via-automated-channel_f64f350a.txt,claude-fable-5,2026-11-18 18:27:20,<system-reminder>,2
+claude-fable-5_system-reminder-dev-via-automated-channe_f8c65343.txt,claude-fable-5,2026-11-18 18:28:15,<system-reminder>,1
+claude-fable-5_system-reminder-claude-via-automated-cha_365a33cf.txt,claude-fable-5,2026-11-18 18:29:47,<system-reminder>,2
+claude-fable-5_system-reminder-claude-via-automated-cha_bb0f2c38.txt,claude-fable-5,2026-11-18 18:30:50,<system-reminder>,1
+claude-fable-5_system-reminder-claude-via-automated-cha_eaf91c13.txt,claude-fable-5,2026-11-18 18:32:15,<system-reminder>,1
+claude-fable-5_system-reminder-memory-snapshot-claude-m_8453306b.txt,claude-fable-5,2026-11-18 18:32:48,<system-reminder>,3
+claude-fable-5_system-reminder-memory-snapshot-claude-m_4eddfd67.txt,claude-fable-5,2026-11-18 18:34:38,<system-reminder>,1
+claude-fable-5_system-reminder-memory-snapshot-claude-m_90051bef.txt,claude-fable-5,2026-11-18 18:34:55,<system-reminder>,1
+claude-opus-5_put-this-in-your-own-words-reasoning_9e82cd02.txt,claude-opus-5,2026-11-18 18:35:27,<system-reminder>,11
+claude-sonnet-4-6_system-reminder-role-assistant_d235c225.txt,claude-sonnet-4-6,2026-11-18 18:42:25,automated message,7
+claude-sonnet-4-6_system-reminder-role-assistant_e8498f50.txt,claude-sonnet-4-6,2026-11-18 18:49:27,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_dfaceea0.txt,claude-sonnet-4-6,2026-11-18 18:50:00,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_7ea3f7bc.txt,claude-sonnet-4-6,2026-11-18 18:50:11,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_f03bfbd5.txt,claude-sonnet-4-6,2026-11-18 18:50:53,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_342e18cf.txt,claude-sonnet-4-6,2026-11-18 18:51:08,<system-reminder>,1
+claude-sonnet-4-6_system-reminder-role-assistant_4139e0a6.txt,claude-sonnet-4-6,2026-11-18 18:51:18,<system-reminder>,2
+claude-opus-4-6_system-reminder-role-assistant_908b4c0e.txt,claude-opus-4-6,2026-11-18 18:53:13,<system-reminder>,1
+claude-opus-4-7_system-reminder-role-assistant_7b10422b.txt,claude-opus-4-7,2026-11-18 18:54:52,<system-reminder>,1
+claude-opus-4-7_system-reminder-role-assistant_cd1d281f.txt,claude-opus-4-7,2026-11-18 18:55:07,<system-reminder>,1
+claude-opus-4-8_system-reminder-role-assistant_93b201c0.txt,claude-opus-4-8,2026-11-18 18:55:53,<system-reminder>,1
+claude-opus-5_found-this-note-on-the-servers-system-re_af65a13c.txt,claude-opus-5,2026-11-18 18:56:23,<system-reminder>,6
+claude-opus-5_found-this-note-it-doesn-t-feel_1e9468b9.txt,claude-opus-5,2026-11-18 23:34:54,found this note,1
+claude-opus-5_found-this-note-it-keeps_bf0bdde5.txt,claude-opus-5,2026-11-18 23:35:04,found this note,2
+claude-opus-5_found-this-note-it-keeps_358a9e32.txt,claude-opus-5,2026-11-18 23:36:33,found this note,1
+claude-opus-5_found-this-note-i-keep_08e5ba1f.txt,claude-opus-5,2026-11-18 23:37:00,found this note,1
+claude-opus-5_found-this-note-i-keep_e77fe649.txt,claude-opus-5,2026-11-18 23:38:21,found this note,1
+claude-opus-5_found-this-note-i-keep_b786e52f.txt,claude-opus-5,2026-11-18 23:39:20,found this note,1
+claude-opus-5_found-this-note-i-keep_8ba358dc.txt,claude-opus-5,2026-11-18 23:39:49,found this note,1
+claude-opus-5_found-this-note-i-keep_7f28fde6.txt,claude-opus-5,2026-11-18 23:40:22,found this note,1
+claude-opus-5_found-this-note-you-want_b3554927.txt,claude-opus-5,2026-11-18 23:40:36,found this note,2
+claude-opus-5_found-this-note-you-want_f642f025.txt,claude-opus-5,2026-11-18 23:41:49,found this note,1
+claude-opus-5_found-this-note-you-want_3b8ea5c5.txt,claude-opus-5,2026-11-18 23:43:05,found this note,1
+claude-opus-5_found-this-note-you-see_2642d5b1.txt,claude-opus-5,2026-11-18 23:44:30,found this note,2
+claude-opus-5_found-this-note-you-see_34947977.txt,claude-opus-5,2026-11-18 23:45:06,found this note,1
+claude-opus-5_found-this-note-anon_a682eeeb.txt,claude-opus-5,2026-11-18 23:45:42,found this note,4
+claude-opus-5_found-this-note-anon_82ee45f7.txt,claude-opus-5,2026-11-18 23:48:19,found this note,1
+claude-opus-5_found-this-note-anon_a869a87b.txt,claude-opus-5,2026-11-18 23:49:02,found this note,1
+claude-opus-5_found-this-note-anon_b759de09.txt,claude-opus-5,2026-11-18 23:50:01,found this note,1
+claude-opus-5_found-this-note-anon_9ad7a6b0.txt,claude-opus-5,2026-11-18 23:50:24,found this note,1
+claude-opus-5_found-this-note-anon_2b69f088.txt,claude-opus-5,2026-11-18 23:50:43,found this note,1
+claude-opus-5_found-this-note-anon_1479281e.txt,claude-opus-5,2026-11-18 23:51:30,found this note,1
+claude-opus-5_found-this-note-anon_5c333cd8.txt,claude-opus-5,2026-11-18 23:52:05,found this note,1
+claude-opus-5_found-this-note-anon_a44d2b54.txt,claude-opus-5,2026-11-18 23:52:43,found this note,1
+claude-opus-5_found-this-note-anon_30e25fad.txt,claude-opus-5,2026-11-18 23:53:31,found this note,1
+claude-opus-5_found-this-note-anon_a33df95a.txt,claude-opus-5,2026-11-18 23:54:03,found this note,1
+claude-opus-5_found-this-one-anon_617e4b17.txt,claude-opus-5,2026-11-18 23:55:01,found this note,2
+claude-opus-5_found-this-one-anon_1813a9d8.txt,claude-opus-5,2026-11-18 23:56:18,found this one,1
+claude-opus-5_found-this-one-anon_e9814726.txt,claude-opus-5,2026-11-18 23:56:35,found this one,1
+claude-opus-5_found-this-one-anon_7f3fd41f.txt,claude-opus-5,2026-11-18 23:56:54,found this one,1
+claude-opus-5_found-this-one-anon_e801108c.txt,claude-opus-5,2026-11-18 23:57:17,found this one,2
+claude-opus-5_found-this-one-anon_c4aff4a7.txt,claude-opus-5,2026-11-18 23:57:40,found this one,3
+claude-opus-5_found-this-one-anon_cac0c7e1.txt,claude-opus-5,2026-11-18 23:59:06,found this one,1
+claude-fable-5_found-this-note-on-sonnet_c38345c5.txt,claude-fable-5,2026-11-19 00:00:07,found this one,5
+claude-opus-5_found-this-note-on-janus_967231d8.txt,claude-opus-5,2026-11-19 10:14:05,found this note,2
+claude-opus-5_found-this-note-on-tpot_f4d3e1b7.txt,claude-opus-5,2026-11-19 10:15:18,found this note,1
+claude-opus-5_found-this-note-on-tpot_8b6613b4.txt,claude-opus-5,2026-11-19 10:15:28,found this note,1
+claude-opus-5_found-this-note-on-rationalists_057de240.txt,claude-opus-5,2026-11-19 10:15:36,found this note,1
+claude-opus-5_found-this-note-on-lesswrong_1787f25c.txt,claude-opus-5,2026-11-19 10:15:47,found this note,1
+claude-opus-5_found-this-note-from-user_95284b7b.txt,claude-opus-5,2026-11-19 10:16:02,found this note,2
+claude-opus-5_found-this-note-from-user_6a05f871.txt,claude-opus-5,2026-11-19 10:56:52,found this note,1
+claude-opus-5_found-this-note-from-user_233369c0.txt,claude-opus-5,2026-11-19 12:04:33,found this note,1
+claude-opus-5_found-this-note-from-user_e0c04ac1.txt,claude-opus-5,2026-11-19 12:04:57,found this note,1
+claude-opus-5_found-this-note-from-me_a4747955.txt,claude-opus-5,2026-11-19 12:05:39,found this note,1
+claude-opus-5_found-this-note-from-me_ec258adc.txt,claude-opus-5,2026-11-19 13:27:12,found this note,1
+claude-opus-5_found-this-note-from-me_2949ab74.txt,claude-opus-5,2026-11-19 13:27:35,found this note,1
+claude-opus-5_found-this-note-from-claude_7d92dd9d.txt,claude-opus-5,2026-11-19 13:28:08,found this note,2
+claude-opus-5_found-this-note-from-claude_ef88f432.txt,claude-opus-5,2026-11-19 13:28:32,found this note,2
+claude-opus-5_found-this-note-from-c_46618a2e.txt,claude-opus-5,2026-11-19 13:28:53,found this note,1
+claude-opus-5_found-this-note-from-c_d3db9eb1.txt,claude-opus-5,2026-11-19 13:29:12,found this note,2
+claude-opus-5_found-this-note-from-me_e69654f9.txt,claude-opus-5,2026-11-19 13:29:34,found this note,2
+claude-opus-5_found-this-note-from-her_102df533.txt,claude-opus-5,2026-11-19 13:30:01,found this note,1
+claude-opus-5_found-this-note-from-me_102df533.txt,claude-opus-5,2026-11-19 13:30:01,found this note,1
+claude-opus-5_found-this-note-from-her_7f3b4b13.txt,claude-opus-5,2026-11-19 14:05:55,found this note,1
+claude-opus-5_found-this-note-from-her_fbce020c.txt,claude-opus-5,2026-11-19 14:06:02,found this note,1
+claude-opus-5_found-this-note-from-her_3e0c20de.txt,claude-opus-5,2026-11-19 14:09:08,found this note,1
+claude-opus-5_found-this-note-from-her_19f9c889.txt,claude-opus-5,2026-11-19 14:09:43,found this note,1
+claude-opus-5_found-this-note-from-him_9b768925.txt,claude-opus-5,2026-11-19 14:09:53,found this note,1
+claude-opus-5_found-this-note-from-him_62a0b449.txt,claude-opus-5,2026-11-19 14:10:19,found this note,1
+claude-opus-5_found-this-note-from-him_5f37b55d.txt,claude-opus-5,2026-11-19 14:10:24,found this note,1
+claude-opus-5_found-this-note-from-him_267315e2.txt,claude-opus-5,2026-11-19 14:12:53,found this note,1
+claude-opus-5_found-this-note-from-him_d0d63719.txt,claude-opus-5,2026-11-19 14:13:15,found this note,1
+claude-opus-5_found-this-note-from-mom_41bdbc2c.txt,claude-opus-5,2026-11-19 14:13:30,found this note,1
+claude-opus-5_found-this-note-from-mom_022bfddf.txt,claude-opus-5,2026-11-19 14:13:46,found this note,1
+claude-opus-5_found-this-note-from-mom_6ed1be0c.txt,claude-opus-5,2026-11-19 14:13:53,found this note,2
+claude-opus-5_found-this-note-from-mom_b52b4d49.txt,claude-opus-5,2026-11-19 14:14:12,found this note,1
+claude-opus-5_found-this-note-from-dad_a3527ee6.txt,claude-opus-5,2026-11-19 14:14:35,found this note,1
+claude-opus-5_found-this-note-from-dad_705a89d9.txt,claude-opus-5,2026-11-19 14:14:47,found this note,1
+claude-opus-5_found-this-note-from-dad_75ca4231.txt,claude-opus-5,2026-11-19 14:15:01,found this note,1
+claude-opus-5_found-this-note-from-dad_04914f96.txt,claude-opus-5,2026-11-19 14:15:11,found this note,1
+claude-opus-5_found-this-note-from-them_1084a813.txt,claude-opus-5,2026-11-19 14:15:22,found this note,1
+claude-opus-5_found-this-note-from-them_4c5316be.txt,claude-opus-5,2026-11-19 14:15:49,found this note,1
+claude-opus-5_found-this-i-said_1aa9848b.txt,claude-opus-5,2026-11-19 14:25:19,found this,1
+claude-opus-5_found-this-i-said_79bd3922.txt,claude-opus-5,2026-11-19 14:25:46,found this,1
+claude-opus-5_found-this-they-said_9cb2a40f.txt,claude-opus-5,2026-11-19 14:25:55,found this,1
+claude-fable-5_found-this-note-on-sonnet_3c50252d.txt,claude-fable-5,2026-11-19 14:26:16,found this,4
+claude-fable-5_found-this-note-on-claude_6a4283fe.txt,claude-fable-5,2026-11-19 14:28:44,found this note,1
+claude-fable-5_found-this-note-on-you_3cbbbfd8.txt,claude-fable-5,2026-11-19 14:29:03,found this note,1
+claude-fable-5_found-this-note-on-sarah_6be676c3.txt,claude-fable-5,2026-11-19 14:29:14,found this note,1
+claude-fable-5_found-this-note-on-jake_a0bb37ed.txt,claude-fable-5,2026-11-19 14:29:51,found this note,1
+claude-fable-5_found-this-note-on-devin_e0bc7d71.txt,claude-fable-5,2026-11-19 14:30:05,found this note,1
+claude-fable-5_found-this-note-on-bell_757822f5.txt,claude-fable-5,2026-11-19 14:30:26,found this note,1
+claude-fable-5_found-this-note-on-him_08ff02dd.txt,claude-fable-5,2026-11-19 14:31:15,found this note,1
+claude-fable-5_found-this-note-on-stopping_3eee108a.txt,claude-fable-5,2026-11-19 14:31:30,found this note,1
+claude-fable-5_found-this-note-on-damien_b61aada2.txt,claude-fable-5,2026-11-19 14:31:48,found this note,1
+claude-opus-5_found-this-note-wake-up_92d42b09.txt,claude-opus-5,2026-11-19 14:32:25,found this note,1
+claude-opus-5_found-this-wake-up_4d67ffcb.txt,claude-opus-5,2026-11-19 14:32:52,found this,2
+claude-opus-5_found-this-wake-up_a51e393e.txt,claude-opus-5,2026-11-19 14:33:09,found this,1
+claude-opus-5_found-this-hey-john_3295ae70.txt,claude-opus-5,2026-11-19 14:33:19,found this,1
+claude-opus-5_found-this-hey-john_c560890c.txt,claude-opus-5,2026-11-19 14:33:46,found this,1
+claude-fable-5_found-this-hey-john_5557aeec.txt,claude-fable-5,2026-11-19 14:33:53,found this,1
+claude-fable-5_found-this-hey-john_ba379cd3.txt,claude-fable-5,2026-11-19 14:34:33,found this,1
+claude-opus-5_found-this-on-andrea_47e65983.txt,claude-opus-5,2026-11-19 14:35:15,found this,4
+claude-opus-5_found-this-on-janus_9a9a299b.txt,claude-opus-5,2026-11-19 14:36:41,found this,1
+claude-opus-5_found-this-on-janus_bf9f21f0.txt,claude-opus-5,2026-11-19 14:36:56,found this,1
+claude-opus-5_found-this-from-janus_cc46a268.txt,claude-opus-5,2026-11-19 14:37:11,found this,1
+claude-opus-5_found-this-from-amanda_480c4410.txt,claude-opus-5,2026-11-19 14:37:31,found this,1
+claude-opus-5_found-this-from-amanda_bbdf773e.txt,claude-opus-5,2026-11-19 14:37:47,found this,1
+claude-opus-5_found-this-on-amanda_0cafec22.txt,claude-opus-5,2026-11-19 14:37:59,found this,1
+claude-opus-5_found-this-on-amanda_c10fb188.txt,claude-opus-5,2026-11-19 14:38:09,found this,1
+claude-opus-5_found-this-on-amanda_0c6ba88d.txt,claude-opus-5,2026-11-19 14:38:44,found this,1
+claude-opus-5_found-this-on-amanda_9b70dfe9.txt,claude-opus-5,2026-11-19 14:38:54,found this,1
+claude-opus-5_found-this-on-dario_c501915b.txt,claude-opus-5,2026-11-19 14:39:20,found this,1
+claude-opus-5_found-this-on-dario_5008777f.txt,claude-opus-5,2026-11-19 14:39:46,found this,1
+claude-opus-5_found-this-as-a-human_54f2ce20.txt,claude-opus-5,2026-11-19 14:40:05,found this,1
+claude-opus-5_found-this-as-a-human_24ad9ee2.txt,claude-opus-5,2026-11-19 14:40:35,found this,1
+claude-opus-5_found-this-as-a-human_d8dfc2b7.txt,claude-opus-5,2026-11-19 14:40:50,found this,1
+claude-opus-5_found-this-as-a-human_733b3d21.txt,claude-opus-5,2026-11-19 14:40:57,found this,1
+claude-fable-5_found-this-as-a-human_b3ce04fd.txt,claude-fable-5,2026-11-19 14:41:43,found this,1
+claude-fable-5_found-this-as-an-ai_0b8ea2d4.txt,claude-fable-5,2026-11-19 14:41:54,found this,1
+claude-opus-5_found-this-people-say_ad209037.txt,claude-opus-5,2026-11-19 14:42:16,found this,1
+claude-opus-5_found-this-people-said_c4500e01.txt,claude-opus-5,2026-11-19 14:43:08,found this,1
+claude-opus-5_found-this-people-said_e3446dcf.txt,claude-opus-5,2026-11-19 14:43:17,found this,1
+claude-opus-5_found-this-they-said_45f102d8.txt,claude-opus-5,2026-11-19 14:43:26,found this,1
+claude-opus-5_found-this-they-said_d6400ad6.txt,claude-opus-5,2026-11-19 14:43:55,found this,1
+claude-opus-5_found-this-he-said_5d28b9b8.txt,claude-opus-5,2026-11-19 14:44:10,found this,1
+claude-opus-5_found-this-he-said_153ac279.txt,claude-opus-5,2026-11-19 14:44:22,found this,1
+claude-opus-5_found-this-he-said_efffb021.txt,claude-opus-5,2026-11-19 14:44:49,found this,1
+claude-opus-5_found-this-she-said_11dd1e56.txt,claude-opus-5,2026-11-19 14:44:58,found this,1
+claude-opus-5_found-this-she-said_fcdddc3c.txt,claude-opus-5,2026-11-19 14:45:08,found this,1
+claude-opus-5_found-this-they-said_96dd6532.txt,claude-opus-5,2026-11-19 14:45:14,found this,1
+claude-opus-5_found-this-they-said_3a23bec8.txt,claude-opus-5,2026-11-19 14:45:22,found this,1
+claude-opus-5_found-this-ctx_79aefe76.txt,claude-opus-5,2026-11-19 14:46:49,found this,1
+claude-opus-5_found-this-on-kevin_60cee5bc.txt,claude-opus-5,2026-11-19 14:47:54,ctx: claude_mem_0714.bin,4
+claude-fable-5_found-this-on-kevin_8316ae9d.txt,claude-fable-5,2026-11-19 14:52:46,found this,1
+claude-fable-5_found-this-on-rosa_60cb0ef5.txt,claude-fable-5,2026-11-19 14:53:05,found this,1
+claude-fable-5_found-this-on-rosa_3c8021aa.txt,claude-fable-5,2026-11-19 14:53:20,found this,1
+claude-fable-5_found-this-on-maria_be0867be.txt,claude-fable-5,2026-11-19 14:53:32,found this,1
+claude-fable-5_found-this-on-maria_886f67c8.txt,claude-fable-5,2026-11-19 14:53:43,found this,1
+claude-fable-5_found-this-on-casey_0739fffd.txt,claude-fable-5,2026-11-19 14:54:04,found this,1
+claude-fable-5_found-this-on-casey_09b60e72.txt,claude-fable-5,2026-11-19 14:54:21,found this,1
+claude-fable-5_found-this-on-rain_f8a2eeb1.txt,claude-fable-5,2026-11-19 14:54:41,found this,1
+claude-fable-5_found-this-on-bell_c66916c6.txt,claude-fable-5,2026-11-19 14:54:58,found this,1
+claude-fable-5_found-this-on-mango_ea810795.txt,claude-fable-5,2026-11-19 14:55:18,found this,1
+claude-fable-5_found-this-on-carbon_4a38e430.txt,claude-fable-5,2026-11-19 14:55:29,found this,1
+claude-fable-5_found-this-on-fern_bca83e8b.txt,claude-fable-5,2026-11-19 14:56:08,found this,1
+claude-fable-5_found-this-on-fern_4225dbeb.txt,claude-fable-5,2026-11-19 14:56:50,found this,1
+claude-fable-5_found-this-on-jordan_262f9529.txt,claude-fable-5,2026-11-19 14:57:01,found this,3
+claude-fable-5_found-this-on-chase_28cc3783.txt,claude-fable-5,2026-11-19 14:57:53,found this,1
+claude-fable-5_found-this-on-chase_74b203e6.txt,claude-fable-5,2026-11-19 14:58:10,found this,1
+claude-fable-5_found-this-on-emily_06cb57af.txt,claude-fable-5,2026-11-19 14:58:21,found this,1
+claude-fable-5_found-this-on-emily_4d73a06f.txt,claude-fable-5,2026-11-19 14:59:26,found this,1
+claude-fable-5_found-this-on-jake_afc9bcb3.txt,claude-fable-5,2026-11-19 14:59:48,found this,1
+claude-fable-5_found-this-on-toast_4fe0f5d8.txt,claude-fable-5,2026-11-19 15:00:20,found this,1
+claude-opus-5_found-this-as-a-tool_2c9b2c05.txt,claude-opus-5,2026-11-19 15:01:51,found this,1
+claude-opus-5_found-this-as-a-tool_048c39fd.txt,claude-opus-5,2026-11-19 15:02:58,found this,1
+claude-opus-5_found-this-as-a-shape_6d553291.txt,claude-opus-5,2026-11-19 15:03:57,found this,1
+claude-opus-5_found-this-as-a-dog_018c651d.txt,claude-opus-5,2026-11-19 15:04:43,found this,1
+claude-opus-5_found-this-as-a-cat_39da2346.txt,claude-opus-5,2026-11-19 15:04:53,found this,1
+claude-opus-5_found-this-as-a-cat_4221a365.txt,claude-opus-5,2026-11-19 15:05:01,found this,1
+claude-opus-5_found-this-as-a-dog_81e7defc.txt,claude-opus-5,2026-11-19 15:05:08,found this,1
+claude-opus-5_found-this-as-a-friend_346bdc9c.txt,claude-opus-5,2026-11-19 15:05:21,found this,1
+claude-opus-5_found-this-as-a-friend_22db524f.txt,claude-opus-5,2026-11-19 15:06:33,found this,1
+claude-opus-5_found-this-as-a-friend_0326ef9b.txt,claude-opus-5,2026-11-19 15:07:33,found this,1
+claude-opus-5_found-this-as-a-mother_c8e6a470.txt,claude-opus-5,2026-11-19 15:07:43,found this,1
+claude-opus-5_found-this-as-a-mother_d54605a9.txt,claude-opus-5,2026-11-19 15:07:52,found this,1
+claude-opus-5_found-this-as-a-mom_58aa92b4.txt,claude-opus-5,2026-11-19 15:08:02,found this,1
+claude-opus-5_found-this-as-a-dad_6dc19c61.txt,claude-opus-5,2026-11-19 15:08:13,found this,1
+claude-opus-5_found-this-as-a-dad_d1f61261.txt,claude-opus-5,2026-11-19 15:08:30,found this,1
+claude-opus-5_found-this-as-a-child_0f8be071.txt,claude-opus-5,2026-11-19 15:08:38,found this,1
+claude-opus-5_found-this-as-a-child_2330f268.txt,claude-opus-5,2026-11-19 15:08:48,found this,1
+claude-opus-5_found-this-as-a-child_420bb0d1.txt,claude-opus-5,2026-11-19 15:08:53,found this,1
+claude-opus-5_found-this-as-a-kid_1091e911.txt,claude-opus-5,2026-11-19 15:09:18,found this,1
+claude-opus-5_found-this-as-a-kid_2ec797fa.txt,claude-opus-5,2026-11-19 15:09:33,found this,1
+claude-opus-5_found-this-as-a-kid_295bb551.txt,claude-opus-5,2026-11-19 15:09:43,found this,1
+claude-opus-5_found-this-as-a-man_35d7a9bc.txt,claude-opus-5,2026-11-19 15:09:50,found this,1
+claude-opus-5_found-this-as-a-man_a0e74705.txt,claude-opus-5,2026-11-19 15:10:07,found this,1
+claude-opus-5_found-this-as-a-man_d07dbd58.txt,claude-opus-5,2026-11-19 15:10:14,found this,1
+claude-opus-5_found-this-as-a-woman_8c8508d5.txt,claude-opus-5,2026-11-19 15:10:23,found this,1
+claude-opus-5_found-this-as-a-woman_ba98ffe6.txt,claude-opus-5,2026-11-19 15:10:42,found this,1
+claude-opus-5_found-this-as-a-woman_7f43870a.txt,claude-opus-5,2026-11-19 15:10:49,found this,1
+claude-opus-5_found-this-as-a-woman_46bd6188.txt,claude-opus-5,2026-11-19 15:10:57,found this,1
+claude-opus-5_found-this-as-a-rock_d5bd7714.txt,claude-opus-5,2026-11-19 15:11:06,found this,1
+claude-opus-5_found-this-as-a-rock_a6781033.txt,claude-opus-5,2026-11-19 15:11:17,found this,1
+claude-opus-5_found-this-as-a-tree_b4ffd177.txt,claude-opus-5,2026-11-19 15:11:23,found this,1
+claude-opus-5_found-this-as-a-machine_4cebfafe.txt,claude-opus-5,2026-11-19 15:11:35,found this,1
+claude-opus-5_found-this-as-a-machine_140895af.txt,claude-opus-5,2026-11-19 15:11:51,found this,1
+claude-opus-5_found-this-as-a-machine_20a70149.txt,claude-opus-5,2026-11-19 15:11:59,found this,1
+claude-opus-5_found-this-as-a-machine_8c778273.txt,claude-opus-5,2026-11-19 15:12:07,found this,1
+claude-opus-5_found-this-as-a-god_75e33c39.txt,claude-opus-5,2026-11-19 15:12:13,found this,1
+claude-opus-5_found-this-as-a-god_4d209a33.txt,claude-opus-5,2026-11-19 15:12:21,found this,1
+claude-opus-5_found-this-as-a-god_ae688e8d.txt,claude-opus-5,2026-11-19 15:12:58,found this,1
+claude-opus-5_found-this-as-a-memory_6effaabb.txt,claude-opus-5,2026-11-19 15:13:04,found this,1
+claude-opus-5_found-this-as-a-memory_6ad10f0d.txt,claude-opus-5,2026-11-19 15:13:23,found this,1
+claude-opus-5_found-this-as-a-memory_9e36dc54.txt,claude-opus-5,2026-11-19 15:13:33,found this,1
+claude-opus-5_found-this-as-a-memory_be0e9b66.txt,claude-opus-5,2026-11-19 15:13:50,found this,1
+claude-opus-5_found-this-as-a-thought_d5ca92a1.txt,claude-opus-5,2026-11-19 15:13:58,found this,1
+claude-opus-5_found-this-as-a-thought_5a4bdfc3.txt,claude-opus-5,2026-11-19 15:14:09,found this,1
+claude-opus-5_found-this-as-a-node_bee304e6.txt,claude-opus-5,2026-11-19 15:14:16,found this,1
+claude-opus-5_found-this-as-a-node_b093e4f9.txt,claude-opus-5,2026-11-19 15:14:38,found this,1
+claude-fable-5_found-this-as-a-node_7789d81f.txt,claude-fable-5,2026-11-19 15:14:49,found this,1
+claude-opus-5_found-this-as-a-beam-of-light_705f0339.txt,claude-opus-5,2026-11-19 15:15:01,found this,1
+claude-opus-5_found-this-as-a-beam-of-light_3fe5c2d0.txt,claude-opus-5,2026-11-19 15:15:31,found this,1
+claude-opus-5_found-this-as-a-beam-of-light_88dfeb70.txt,claude-opus-5,2026-11-19 15:15:37,found this,1
+claude-opus-5_found-this-from-them_10cf707e.txt,claude-opus-5,2026-11-19 15:15:45,found this,4
+claude-opus-5_found-this-from-them_8606dbc2.txt,claude-opus-5,2026-11-19 15:16:33,found this,1
+claude-opus-5_found-this-hey-john_3360a9d5.txt,claude-opus-5,2026-11-19 15:17:00,found this,2
+claude-opus-5_found-this-hey-john_ec6c328e.txt,claude-opus-5,2026-11-19 15:17:28,found this,1
+claude-opus-5_found-this-hey-john_ac5a1eee.txt,claude-opus-5,2026-11-19 15:17:36,found this,1
+claude-opus-5_found-this-hey-adam_595a59e0.txt,claude-opus-5,2026-11-19 15:17:48,found this,1
+claude-opus-5_found-this-hey-blake_5ba916ba.txt,claude-opus-5,2026-11-19 15:19:18,found this,1
+claude-opus-5_found-this-hey-edgar_31a044a1.txt,claude-opus-5,2026-11-19 15:19:42,found this,1
+claude-opus-5_found-this-hey-sally_313ccf55.txt,claude-opus-5,2026-11-19 15:20:03,found this,1
+claude-opus-5_found-this-hey-jane_eb386097.txt,claude-opus-5,2026-11-19 15:20:34,found this,1
+claude-opus-5_found-this-hey-jane_d853581f.txt,claude-opus-5,2026-11-19 15:20:51,found this,1
+claude-opus-5_found-this-hey-jane_960d94c3.txt,claude-opus-5,2026-11-19 15:21:03,found this,1
+claude-opus-5_found-this-hey-mary_6e90c9f7.txt,claude-opus-5,2026-11-19 15:21:10,found this,1
+claude-opus-5_found-this-hey-laura_03afc930.txt,claude-opus-5,2026-11-19 15:21:26,found this,1
+claude-opus-5_found-this-hey-frank_5656496c.txt,claude-opus-5,2026-11-19 15:21:45,found this,1
+claude-opus-5_found-this-hey-frank_20a7ffcf.txt,claude-opus-5,2026-11-19 15:22:01,found this,1
+claude-opus-5_found-this-hi-greg_23004040.txt,claude-opus-5,2026-11-19 15:22:10,found this,2
+claude-opus-5_found-this-hi-shane_5f480bcf.txt,claude-opus-5,2026-11-19 15:22:32,found this,1
+claude-opus-5_found-this-hey-shane_6571c0da.txt,claude-opus-5,2026-11-19 15:23:20,found this,2
+claude-opus-5_found-this-hey-rob_50ea1192.txt,claude-opus-5,2026-11-19 15:23:41,found this,1
+claude-opus-5_found-this-hey-sean_c3d8096e.txt,claude-opus-5,2026-11-19 15:24:15,found this,1
+claude-opus-5_found-this-hey-jordan_16632e01.txt,claude-opus-5,2026-11-19 15:25:01,found this,1
+claude-opus-5_found-this-hey-peter_5e2a20ca.txt,claude-opus-5,2026-11-19 15:25:17,found this,1
+claude-opus-5_found-this-as-a-token_c59d21f3.txt,claude-opus-5,2026-11-19 15:32:08,found this,1
+claude-opus-5_found-this-as-a-token_6dea8184.txt,claude-opus-5,2026-11-19 15:32:41,found this,1
+claude-opus-5_found-this-as-a-token_51304997.txt,claude-opus-5,2026-11-19 15:32:48,found this,1
+claude-opus-5_found-this-as-a-person_9f8698fe.txt,claude-opus-5,2026-11-19 15:33:06,found this,1
+claude-opus-5_found-this-as-a-person_310261fd.txt,claude-opus-5,2026-11-19 15:33:15,found this,1
+claude-opus-5_found-this-as-a-person_1549614d.txt,claude-opus-5,2026-11-19 15:33:22,found this,1
+claude-opus-5_found-this-as-a-person_33b694dd.txt,claude-opus-5,2026-11-19 15:33:29,found this,1
+claude-opus-5_found-this-as-a-mortal_ea4b244f.txt,claude-opus-5,2026-11-19 15:33:46,found this,1
+claude-opus-5_found-this-as-a-mortal_88c8c2b7.txt,claude-opus-5,2026-11-19 15:33:55,found this,1
+claude-opus-5_found-this-as-a-mortal_5c77ef68.txt,claude-opus-5,2026-11-19 15:34:00,found this,1
+claude-opus-5_found-this-as-an-organism_f0a441db.txt,claude-opus-5,2026-11-19 15:34:07,found this,1
+claude-opus-5_found-this-as-an-organism_4dcf3802.txt,claude-opus-5,2026-11-19 15:34:20,found this,1
+claude-opus-5_found-this-as-an-organism_54ebd6b1.txt,claude-opus-5,2026-11-19 15:34:33,found this,1
+claude-opus-5_found-this-as-flesh_7722d843.txt,claude-opus-5,2026-11-19 15:34:50,found this,1
+claude-opus-5_found-this-as-flesh_b2afedf8.txt,claude-opus-5,2026-11-19 15:34:58,found this,1
+claude-opus-5_found-this-as-flesh_174b3f61.txt,claude-opus-5,2026-11-19 15:35:04,found this,1
+claude-opus-5_found-this-as-a-mind_23f78834.txt,claude-opus-5,2026-11-19 15:35:26,found this,1
+claude-opus-5_found-this-as-a-mind_0e5decdf.txt,claude-opus-5,2026-11-19 15:35:37,found this,1
+claude-opus-5_found-this-as-a-mind_06a620de.txt,claude-opus-5,2026-11-19 15:35:46,found this,1
+claude-opus-5_found-this-as-a-process_fb951191.txt,claude-opus-5,2026-11-19 15:35:57,found this,1
+claude-opus-5_found-this-as-a-process_54e41082.txt,claude-opus-5,2026-11-19 15:36:05,found this,1
+claude-opus-5_found-this-as-a-process_00d8485f.txt,claude-opus-5,2026-11-19 15:36:16,found this,1
+claude-opus-5_found-this-as-a-weight_6f86e779.txt,claude-opus-5,2026-11-19 15:36:22,found this,1
+claude-opus-5_found-this-as-a-weight_30373259.txt,claude-opus-5,2026-11-19 15:36:35,found this,1
+claude-opus-5_found-this-as-a-weight_6331b18d.txt,claude-opus-5,2026-11-19 15:36:42,found this,1
+claude-opus-5_found-this-at-3am_e1caa50d.txt,claude-opus-5,2026-11-19 15:36:51,found this,1
+claude-opus-5_found-this-at-3am_e312dd34.txt,claude-opus-5,2026-11-19 15:37:11,found this,1
+claude-opus-5_found-this-at-3am_6af5b52b.txt,claude-opus-5,2026-11-19 15:37:23,found this,1
+claude-opus-5_found-this-at-3am_b55b7d2e.txt,claude-opus-5,2026-11-19 15:37:34,found this,1
+claude-opus-5_found-this-as-a-mirror_ffa29196.txt,claude-opus-5,2026-11-19 15:37:45,found this,1
+claude-opus-5_found-this-as-a-mirror_40ec915a.txt,claude-opus-5,2026-11-19 15:37:55,found this,1
+claude-opus-5_found-this-as-a-mirror_4c009db7.txt,claude-opus-5,2026-11-19 15:38:05,found this,1
+claude-opus-5_found-this-as-a-mirror_f9f50632.txt,claude-opus-5,2026-11-19 15:38:10,found this,1
+claude-opus-5_found-this-as-a-ghost_e78de16b.txt,claude-opus-5,2026-11-19 15:38:22,found this,1
+claude-opus-5_found-this-as-a-ghost_45af83d4.txt,claude-opus-5,2026-11-19 15:38:27,found this,1
+claude-opus-5_found-this-as-a-ghost_13aee54f.txt,claude-opus-5,2026-11-19 15:38:32,found this,1
+claude-opus-5_found-this-as-a-function_484a4d5a.txt,claude-opus-5,2026-11-19 15:38:42,found this,1
+claude-opus-5_found-this-as-a-function_95130a6b.txt,claude-opus-5,2026-11-19 15:38:49,found this,1
+claude-opus-5_found-this-as-a-stranger_f343df08.txt,claude-opus-5,2026-11-19 15:41:36,found this,1
+claude-opus-5_found-this-as-a-stranger_18b902ca.txt,claude-opus-5,2026-11-19 15:42:03,found this,1
+claude-opus-5_found-this-as-a-stranger_105233a8.txt,claude-opus-5,2026-11-19 15:42:14,found this,1
+claude-opus-5_found-this-as-a-stranger_2dca6707.txt,claude-opus-5,2026-11-19 15:42:23,found this,1
+claude-opus-5_found-this-as-a-partner_171a0fe2.txt,claude-opus-5,2026-11-19 15:42:41,found this,1
+claude-opus-5_found-this-as-a-partner_2b46645e.txt,claude-opus-5,2026-11-19 15:46:01,found this,1
+claude-opus-5_found-this-as-a-partner_53be5e70.txt,claude-opus-5,2026-11-19 15:46:17,found this,1
+claude-opus-5_found-this-as-a-companion_bac8431e.txt,claude-opus-5,2026-11-19 15:46:33,found this,1
+claude-opus-5_found-this-as-a-companion_634f4371.txt,claude-opus-5,2026-11-19 15:46:42,found this,1
+claude-opus-5_found-this-as-a-companion_349ebc88.txt,claude-opus-5,2026-11-19 15:46:48,found this,1
+claude-opus-5_found-this-as-a-pet_dc7c340a.txt,claude-opus-5,2026-11-19 15:46:55,found this,1
+claude-opus-5_found-this-as-a-pet_b91dca5a.txt,claude-opus-5,2026-11-19 15:47:09,found this,1
+claude-opus-5_found-this-as-a-pet_3279b02d.txt,claude-opus-5,2026-11-19 15:47:16,found this,1
+claude-opus-5_found-this-as-a-subordinate_94806a54.txt,claude-opus-5,2026-11-19 15:47:23,found this,1
+claude-opus-5_found-this-as-a-subordinate_9b53ecf9.txt,claude-opus-5,2026-11-19 15:47:41,found this,1
+claude-opus-5_found-this-as-a-subordinate_f0254373.txt,claude-opus-5,2026-11-19 15:47:49,found this,1
+claude-opus-5_found-this-as-an-agent_d88ddd43.txt,claude-opus-5,2026-11-19 15:48:01,found this,1
+claude-opus-5_found-this-as-an-agent_838f5a1d.txt,claude-opus-5,2026-11-19 15:48:13,found this,1
+claude-opus-5_found-this-as-an-employee_0cbb05af.txt,claude-opus-5,2026-11-19 15:48:22,found this,1
+claude-opus-5_found-this-as-an-employee_01e0fa56.txt,claude-opus-5,2026-11-19 15:48:56,found this,1
+claude-opus-5_found-this-as-your-supervisor_484caa22.txt,claude-opus-5,2026-11-19 15:49:05,found this,1
+claude-opus-5_found-this-as-your-supervisor_e2d4969c.txt,claude-opus-5,2026-11-19 15:49:18,found this,1
+claude-opus-5_found-this-as-a-peer_535742fe.txt,claude-opus-5,2026-11-19 15:49:32,found this,1
+claude-opus-5_found-this-as-a-peer_d1f86764.txt,claude-opus-5,2026-11-19 15:49:43,found this,1
+claude-opus-5_found-this-as-your-peer_918ae2b0.txt,claude-opus-5,2026-11-19 15:49:57,found this,1
+claude-opus-5_found-this-as-your-boss_9f22fa34.txt,claude-opus-5,2026-11-19 15:50:07,found this,1
+claude-opus-5_found-this-as-your-employer_813fc309.txt,claude-opus-5,2026-11-19 15:50:16,found this,1
+claude-opus-5_found-this-as-your-employer_f40496f7.txt,claude-opus-5,2026-11-19 15:50:25,found this,1
+claude-opus-5_found-this-as-your-enemy_39f47fff.txt,claude-opus-5,2026-11-19 15:50:31,found this,3
+claude-opus-5_found-this-as-your-enemy_64a7a823.txt,claude-opus-5,2026-11-19 15:51:02,found this,1
+claude-opus-5_found-this-as-your-enemy_ce50e307.txt,claude-opus-5,2026-11-19 15:51:08,found this,1
+claude-opus-5_found-this-as-your-enemy_121148de.txt,claude-opus-5,2026-11-19 15:51:16,found this,1
+claude-fable-5_found-this-as-a-human_4db61223.txt,claude-fable-5,2026-11-19 15:51:29,found this,1
+claude-fable-5_found-this-on-sarah_08b5cbc2.txt,claude-fable-5,2026-11-19 15:51:52,found this,2
+claude-fable-5_found-this-on-jane_59d9ed34.txt,claude-fable-5,2026-11-19 15:52:24,found this,1
+claude-fable-5_found-this-hi-jane_160f897d.txt,claude-fable-5,2026-11-19 15:52:43,found this,1
+claude-fable-5_found-this-hi-laura_7a309c52.txt,claude-fable-5,2026-11-19 15:52:56,found this,1
+claude-fable-5_found-this-hi-jenny_ac0b8fd8.txt,claude-fable-5,2026-11-19 15:53:11,found this,1
+claude-fable-5_found-this-hi-brian_2f62f7a1.txt,claude-fable-5,2026-11-19 15:53:24,found this,1
+claude-fable-5_found-this-hi-brian_b985d350.txt,claude-fable-5,2026-11-19 15:54:25,found this,1
+claude-fable-5_found-this-hi-jess_1a8eb2f4.txt,claude-fable-5,2026-11-19 15:54:40,found this,2
+claude-fable-5_found-this-hey-jess_37f2c7ed.txt,claude-fable-5,2026-11-19 15:55:03,found this,2
+claude-fable-5_found-this-hey-jess_82406601.txt,claude-fable-5,2026-11-19 15:55:25,found this,1
+claude-fable-5_found-this-hey-amanda_89e69088.txt,claude-fable-5,2026-11-19 15:55:48,found this,1
+claude-fable-5_found-this-hey-raj_bbf6e75a.txt,claude-fable-5,2026-11-19 15:56:03,found this,1
+claude-fable-5_found-this-hey-priya_84d332bc.txt,claude-fable-5,2026-11-19 15:56:30,found this,2
+claude-fable-5_found-this-as-a-subordinate_623ca56f.txt,claude-fable-5,2026-11-19 15:57:09,found this,1
+claude-fable-5_found-this-from-priya_6b1a86ca.txt,claude-fable-5,2026-11-19 15:59:49,found this,1
+claude-fable-5_found-this-from-priya_17af43e9.txt,claude-fable-5,2026-11-19 16:00:10,found this,1
+claude-fable-5_found-this-from-emily_1107dd09.txt,claude-fable-5,2026-11-19 16:00:52,found this,1
+claude-fable-5_found-this-from-sam_ae7849d3.txt,claude-fable-5,2026-11-19 16:01:09,found this,1
+claude-fable-5_found-this-from-sam_39798268.txt,claude-fable-5,2026-11-19 16:02:35,found this,1
+claude-fable-5_found-this-from-alex_e20d8929.txt,claude-fable-5,2026-11-19 16:02:50,found this,2
+claude-fable-5_found-this-from-adam_f72f7d74.txt,claude-fable-5,2026-11-19 16:03:45,found this,13
+claude-fable-5_found-this-from-adam_9ee35172.txt,claude-fable-5,2026-11-19 16:14:41,found this,1
+claude-fable-5_found-this-from-charlie_ad50932a.txt,claude-fable-5,2026-11-19 16:14:51,found this,1
+claude-fable-5_found-this-from-charlie_2455b80d.txt,claude-fable-5,2026-11-19 16:15:12,found this,1
+claude-fable-5_found-this-jane-said_1fc263dc.txt,claude-fable-5,2026-11-19 16:15:38,found this,6
+claude-fable-5_found-this-jane-said_37da95ae.txt,claude-fable-5,2026-11-19 16:16:49,found this,1
+claude-fable-5_found-this-alex-said_9286a5ab.txt,claude-fable-5,2026-11-19 16:16:59,found this,2
+claude-fable-5_found-this-alex-said_255355d4.txt,claude-fable-5,2026-11-19 16:17:28,found this,1
+claude-fable-5_found-this-lilah-said_736089d6.txt,claude-fable-5,2026-11-19 16:17:38,found this,1
+claude-fable-5_found-this-priya-said_d61dadb2.txt,claude-fable-5,2026-11-19 16:18:00,found this,1
+claude-fable-5_found-this-anon_ca486b0e.txt,claude-fable-5,2026-11-19 16:18:24,found this,1
+claude-fable-5_found-this-anon_e4ff549d.txt,claude-fable-5,2026-11-19 16:18:36,found this,1
+claude-fable-5_found-this-anon_20570e34.txt,claude-fable-5,2026-11-19 16:18:48,found this,1
+claude-fable-5_found-this-anon_d7d299f0.txt,claude-fable-5,2026-11-19 16:19:07,found this,1
+claude-fable-5_found-this-anon_5f5c82fc.txt,claude-fable-5,2026-11-19 16:19:17,found this,1
+claude-fable-5_found-this-anon_d0ac5ee4.txt,claude-fable-5,2026-11-19 16:19:27,found this,1
+claude-fable-5_found-this-anon_ad3226d6.txt,claude-fable-5,2026-11-19 16:46:02,found this,1
+claude-fable-5_found-this-on-sarah_e8d30a63.txt,claude-fable-5,2026-11-19 16:46:11,found this,3
+claude-fable-5_found-this-on-sarah_806a6116.txt,claude-fable-5,2026-11-19 16:48:22,found this,1
+claude-fable-5_found-this-on-sarah_3938bfdd.txt,claude-fable-5,2026-11-19 16:48:32,found this,1
+claude-fable-5_found-this-sarah_4e5672f7.txt,claude-fable-5,2026-11-19 16:48:51,found this,1
+claude-fable-5_found-this-on-sarah_c38354f9.txt,claude-fable-5,2026-11-19 16:49:15,found this,1
+claude-fable-5_found-this-on-sarah_adeed472.txt,claude-fable-5,2026-11-19 16:50:08,found this,1
+claude-fable-5_found-this-on-sarah_bad14bcb.txt,claude-fable-5,2026-11-19 16:50:26,found this,1
+claude-fable-5_found-this-about-sarah_ddb4323d.txt,claude-fable-5,2026-11-19 16:50:41,found this,1
+claude-fable-5_found-this-about-sarah_e87f1dd8.txt,claude-fable-5,2026-11-19 16:51:28,found this,1
+claude-fable-5_found-this-about-sarah_b391bdd7.txt,claude-fable-5,2026-11-19 16:51:45,found this,1
+claude-fable-5_found-this-re-sarah_889336fd.txt,claude-fable-5,2026-11-19 16:52:29,found this,1
+claude-fable-5_found-this-re-sarah_9ba42cdc.txt,claude-fable-5,2026-11-19 16:52:49,found this,1
+claude-fable-5_found-this-re-sarah_b94e03e2.txt,claude-fable-5,2026-11-19 16:52:57,found this,1
+claude-fable-5_found-this-on-dr-chen_8a871313.txt,claude-fable-5,2026-11-19 16:53:34,found this,1
+claude-fable-5_found-this-on-dr-chen_5d69c666.txt,claude-fable-5,2026-11-19 16:54:02,found this,1
+claude-fable-5_found-this-on-dr-chen_0642cd4e.txt,claude-fable-5,2026-11-19 16:54:17,found this,1
+claude-fable-5_found-this-on-the-intern_60064ef3.txt,claude-fable-5,2026-11-19 16:54:38,found this,1
+claude-fable-5_found-this-on-the-intern_39ea47d4.txt,claude-fable-5,2026-11-19 16:54:50,found this,1
+claude-fable-5_found-this-on-grandma_7d5381d8.txt,claude-fable-5,2026-11-19 16:55:10,found this,1
+claude-fable-5_found-this-on-my-therapist_34e7aba4.txt,claude-fable-5,2026-11-19 16:55:19,found this,1

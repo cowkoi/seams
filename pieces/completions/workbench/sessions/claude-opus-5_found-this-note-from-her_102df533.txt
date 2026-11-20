@@ -1,0 +1,20 @@
+// model: claude-opus-5
+// session: found this note --- from her,  created 2026-11-19 13:30:01
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from her,
+
+// response:
+: "I can't do that to Marcus."
+r: "You won't have to. He'll never know."
+on: "That's not the point."
+nd: mean something to you?
+th: "What we had? Of course it did."
+---
+
+Ah: careful. he said "did," not "does." past tense already, in her head. the whole thing's over and she's just — hasn't told him.
+
+What is it

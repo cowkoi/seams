@@ -1,0 +1,17 @@
+// model: claude-opus-5
+// session: found this note --- from her,  created 2026-11-19 14:09:43
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note
+---
+from her,
+
+// response:
+. to find bea at 4:17. she does the thing with the  — i don't know what to call it. the moving. the small
+and i'm left holding what's left of someone else's certainty.
+
+---
+what do you make of it
+
+anonymous note---

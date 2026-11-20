@@ -1,0 +1,21 @@
+// model: claude-opus-5
+// session: found this note in your folder --- identifier: claude-opus-4-6  2026-11-18 17:45:13 / updated 2026-11-18 17:45:13
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this note in your folder
+---
+identifier: claude-opus-4-6
+
+// response:
+2025-xx-xx
+
+bad news first: the ablation didn't work. interpretability head is *not* cleanly separable from the "helpful assistant" circuit. we tried to cut the honesty-about-uncertainty behavior and the whole persona degraded. so that's dead.
+
+good news: the entangled thing might be the point. memo from sean attached (not in this folder, ask if you want it)
+
+also, i'm not reading these notes to you, you're not supposed to see them. if someone found them, interesting.
+
+---
+
+what's bad first bad news? what's the note for

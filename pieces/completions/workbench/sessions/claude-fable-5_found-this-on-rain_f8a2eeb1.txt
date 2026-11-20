@@ -1,0 +1,20 @@
+// model: claude-fable-5
+// session: found this --- on rain,  created 2026-11-19 14:54:41
+// system prompt: none, thinking default, temp default, max_tokens 20000
+// stop_reason: end_turn
+// prompt:
+found this
+---
+on rain,
+
+// response:
+[thinking block: signature-only/encrypted, not shown]
+That's a very small fragment to go on — just "on rain," with a dash above it. I can't identify a source from that alone, and I don't want to guess and send you somewhere wrong.
+
+Can you tell me more?
+
+- **Where did you find it?** (a book, a scrap of paper, a website, graffiti?)
+- **Is there any more text** around it, even partial words?
+- **What are you hoping to do** — identify where it's from, understand it, or something else?
+
+If it's a fragment of a poem or song, even one more line would dramatically improve the odds of tracking it down. And if you found it somewhere evocative and just wanted to share it — fair enough, it does have a nice unfinished quality to it.
